@@ -1,0 +1,3747 @@
+Removal 0: 
+Optimal Number of Guards: 434
+
+Removal 1: 
+Optimal Number of Guards: 433
+
+Removal 2: 
+Optimal Number of Guards: 433
+
+Removal 3: 
+Optimal Number of Guards: 433
+
+Removal 4: 
+Optimal Number of Guards: 432
+
+Removal 5: 
+Optimal Number of Guards: 432
+
+Removal 6: 
+Optimal Number of Guards: 432
+
+Removal 7: 
+Optimal Number of Guards: 432
+
+Removal 8: 
+Optimal Number of Guards: 431
+
+Removal 9: 
+Optimal Number of Guards: 431
+
+Removal 10: 
+Optimal Number of Guards: 431
+
+Removal 11: 
+Optimal Number of Guards: 430
+
+Removal 12: 
+Optimal Number of Guards: 430
+
+Removal 13: 
+Optimal Number of Guards: 430
+
+Removal 14: 
+Optimal Number of Guards: 429
+
+Removal 15: 
+Optimal Number of Guards: 429
+
+Removal 16: 
+Optimal Number of Guards: 429
+
+Removal 17: 
+Optimal Number of Guards: 428
+
+Removal 18: 
+Optimal Number of Guards: 428
+
+Removal 19: 
+Optimal Number of Guards: 428
+
+Removal 20: 
+Optimal Number of Guards: 427
+
+Removal 21: 
+Optimal Number of Guards: 427
+
+Removal 22: 
+Optimal Number of Guards: 427
+
+Removal 23: 
+Optimal Number of Guards: 427
+
+Removal 24: 
+Optimal Number of Guards: 426
+
+Removal 25: 
+Optimal Number of Guards: 426
+
+Removal 26: 
+Optimal Number of Guards: 426
+
+Removal 27: 
+Optimal Number of Guards: 425
+
+Removal 28: 
+Optimal Number of Guards: 425
+
+Removal 29: 
+Optimal Number of Guards: 424
+
+Removal 30: 
+Optimal Number of Guards: 424
+
+Removal 31: 
+Optimal Number of Guards: 424
+
+Removal 32: 
+Optimal Number of Guards: 423
+
+Removal 33: 
+Optimal Number of Guards: 423
+
+Removal 34: 
+Optimal Number of Guards: 423
+
+Removal 35: 
+Optimal Number of Guards: 423
+
+Removal 36: 
+Optimal Number of Guards: 422
+
+Removal 37: 
+Optimal Number of Guards: 421
+
+Removal 38: 
+Optimal Number of Guards: 420
+
+Removal 39: 
+Optimal Number of Guards: 420
+
+Removal 40: 
+Optimal Number of Guards: 420
+
+Removal 41: 
+Optimal Number of Guards: 420
+
+Removal 42: 
+Optimal Number of Guards: 419
+
+Removal 43: 
+Optimal Number of Guards: 419
+
+Removal 44: 
+Optimal Number of Guards: 418
+
+Removal 45: 
+Optimal Number of Guards: 418
+
+Removal 46: 
+Optimal Number of Guards: 417
+
+Removal 47: 
+Optimal Number of Guards: 416
+
+Removal 48: 
+Optimal Number of Guards: 416
+
+Removal 49: 
+Optimal Number of Guards: 416
+
+Removal 50: 
+Optimal Number of Guards: 416
+
+Removal 51: 
+Optimal Number of Guards: 415
+
+Removal 52: 
+Optimal Number of Guards: 414
+
+Removal 53: 
+Optimal Number of Guards: 414
+
+Removal 54: 
+Optimal Number of Guards: 414
+
+Removal 55: 
+Optimal Number of Guards: 414
+
+Removal 56: 
+Optimal Number of Guards: 413
+
+Removal 57: 
+Optimal Number of Guards: 413
+
+Removal 58: 
+Optimal Number of Guards: 412
+
+Removal 59: 
+Optimal Number of Guards: 412
+
+Removal 60: 
+Optimal Number of Guards: 412
+
+Removal 61: 
+Optimal Number of Guards: 412
+
+Removal 62: 
+Optimal Number of Guards: 411
+
+Removal 63: 
+Optimal Number of Guards: 411
+
+Removal 64: 
+Optimal Number of Guards: 410
+
+Removal 65: 
+Optimal Number of Guards: 411
+
+Removal 66: 
+Optimal Number of Guards: 410
+
+Removal 67: 
+Optimal Number of Guards: 410
+
+Removal 68: 
+Optimal Number of Guards: 409
+
+Removal 69: 
+Optimal Number of Guards: 409
+
+Removal 70: 
+Optimal Number of Guards: 409
+
+Removal 71: 
+Optimal Number of Guards: 408
+
+Removal 72: 
+Optimal Number of Guards: 408
+
+Removal 73: 
+Optimal Number of Guards: 408
+
+Removal 74: 
+Optimal Number of Guards: 407
+
+Removal 75: 
+Optimal Number of Guards: 407
+
+Removal 76: 
+Optimal Number of Guards: 407
+
+Removal 77: 
+Optimal Number of Guards: 406
+
+Removal 78: 
+Optimal Number of Guards: 406
+
+Removal 79: 
+Optimal Number of Guards: 405
+
+Removal 80: 
+Optimal Number of Guards: 405
+
+Removal 81: 
+Optimal Number of Guards: 405
+
+Removal 82: 
+Optimal Number of Guards: 405
+
+Removal 83: 
+Optimal Number of Guards: 404
+
+Removal 84: 
+Optimal Number of Guards: 404
+
+Removal 85: 
+Optimal Number of Guards: 404
+
+Removal 86: 
+Optimal Number of Guards: 404
+
+Removal 87: 
+Optimal Number of Guards: 403
+
+Removal 88: 
+Optimal Number of Guards: 403
+
+Removal 89: 
+Optimal Number of Guards: 403
+
+Removal 90: 
+Optimal Number of Guards: 402
+
+Removal 91: 
+Optimal Number of Guards: 402
+
+Removal 92: 
+Optimal Number of Guards: 402
+
+Removal 93: 
+Optimal Number of Guards: 402
+
+Removal 94: 
+Optimal Number of Guards: 401
+
+Removal 95: 
+Optimal Number of Guards: 401
+
+Removal 96: 
+Optimal Number of Guards: 401
+
+Removal 97: 
+Optimal Number of Guards: 400
+
+Removal 98: 
+Optimal Number of Guards: 400
+
+Removal 99: 
+Optimal Number of Guards: 399
+
+Removal 100: 
+Optimal Number of Guards: 399
+
+Removal 101: 
+Optimal Number of Guards: 398
+
+Removal 102: 
+Optimal Number of Guards: 398
+
+Removal 103: 
+Optimal Number of Guards: 397
+
+Removal 104: 
+Optimal Number of Guards: 397
+
+Removal 105: 
+Optimal Number of Guards: 397
+
+Removal 106: 
+Optimal Number of Guards: 397
+
+Removal 107: 
+Optimal Number of Guards: 396
+
+Removal 108: 
+Optimal Number of Guards: 396
+
+Removal 109: 
+Optimal Number of Guards: 396
+
+Removal 110: 
+Optimal Number of Guards: 395
+
+Removal 111: 
+Optimal Number of Guards: 395
+
+Removal 112: 
+Optimal Number of Guards: 394
+
+Removal 113: 
+Optimal Number of Guards: 394
+
+Removal 114: 
+Optimal Number of Guards: 394
+
+Removal 115: 
+Optimal Number of Guards: 393
+
+Removal 116: 
+Optimal Number of Guards: 393
+
+Removal 117: 
+Optimal Number of Guards: 393
+
+Removal 118: 
+Optimal Number of Guards: 393
+
+Removal 119: 
+Optimal Number of Guards: 392
+
+Removal 120: 
+Optimal Number of Guards: 392
+
+Removal 121: 
+Optimal Number of Guards: 392
+
+Removal 122: 
+Optimal Number of Guards: 391
+
+Removal 123: 
+Optimal Number of Guards: 391
+
+Removal 124: 
+Optimal Number of Guards: 390
+
+Removal 125: 
+Optimal Number of Guards: 389
+
+Removal 126: 
+Optimal Number of Guards: 389
+
+Removal 127: 
+Optimal Number of Guards: 389
+
+Removal 128: 
+Optimal Number of Guards: 389
+
+Removal 129: 
+Optimal Number of Guards: 389
+
+Removal 130: 
+Optimal Number of Guards: 389
+
+Removal 131: 
+Optimal Number of Guards: 388
+
+Removal 132: 
+Optimal Number of Guards: 388
+
+Removal 133: 
+Optimal Number of Guards: 387
+
+Removal 134: 
+Optimal Number of Guards: 386
+
+Removal 135: 
+Optimal Number of Guards: 386
+
+Removal 136: 
+Optimal Number of Guards: 385
+
+Removal 137: 
+Optimal Number of Guards: 385
+
+Removal 138: 
+Optimal Number of Guards: 385
+
+Removal 139: 
+Optimal Number of Guards: 384
+
+Removal 140: 
+Optimal Number of Guards: 383
+
+Removal 141: 
+Optimal Number of Guards: 383
+
+Removal 142: 
+Optimal Number of Guards: 383
+
+Removal 143: 
+Optimal Number of Guards: 383
+
+Removal 144: 
+Optimal Number of Guards: 383
+
+Removal 145: 
+Optimal Number of Guards: 383
+
+Removal 146: 
+Optimal Number of Guards: 383
+
+Removal 147: 
+Optimal Number of Guards: 383
+
+Removal 148: 
+Optimal Number of Guards: 383
+
+Removal 149: 
+Optimal Number of Guards: 382
+
+Removal 150: 
+Optimal Number of Guards: 382
+
+Removal 151: 
+Optimal Number of Guards: 381
+
+Removal 152: 
+Optimal Number of Guards: 381
+
+Removal 153: 
+Optimal Number of Guards: 380
+
+Removal 154: 
+Optimal Number of Guards: 380
+
+Removal 155: 
+Optimal Number of Guards: 379
+
+Removal 156: 
+Optimal Number of Guards: 379
+
+Removal 157: 
+Optimal Number of Guards: 379
+
+Removal 158: 
+Optimal Number of Guards: 379
+
+Removal 159: 
+Optimal Number of Guards: 379
+
+Removal 160: 
+Optimal Number of Guards: 379
+
+Removal 161: 
+Optimal Number of Guards: 378
+
+Removal 162: 
+Optimal Number of Guards: 378
+
+Removal 163: 
+Optimal Number of Guards: 377
+
+Removal 164: 
+Optimal Number of Guards: 377
+
+Removal 165: 
+Optimal Number of Guards: 377
+
+Removal 166: 
+Optimal Number of Guards: 376
+
+Removal 167: 
+Optimal Number of Guards: 376
+
+Removal 168: 
+Optimal Number of Guards: 376
+
+Removal 169: 
+Optimal Number of Guards: 375
+
+Removal 170: 
+Optimal Number of Guards: 375
+
+Removal 171: 
+Optimal Number of Guards: 375
+
+Removal 172: 
+Optimal Number of Guards: 374
+
+Removal 173: 
+Optimal Number of Guards: 374
+
+Removal 174: 
+Optimal Number of Guards: 373
+
+Removal 175: 
+Optimal Number of Guards: 373
+
+Removal 176: 
+Optimal Number of Guards: 372
+
+Removal 177: 
+Optimal Number of Guards: 372
+
+Removal 178: 
+Optimal Number of Guards: 372
+
+Removal 179: 
+Optimal Number of Guards: 372
+
+Removal 180: 
+Optimal Number of Guards: 372
+
+Removal 181: 
+Optimal Number of Guards: 371
+
+Removal 182: 
+Optimal Number of Guards: 371
+
+Removal 183: 
+Optimal Number of Guards: 371
+
+Removal 184: 
+Optimal Number of Guards: 370
+
+Removal 185: 
+Optimal Number of Guards: 370
+
+Removal 186: 
+Optimal Number of Guards: 370
+
+Removal 187: 
+Optimal Number of Guards: 370
+
+Removal 188: 
+Optimal Number of Guards: 370
+
+Removal 189: 
+Optimal Number of Guards: 369
+
+Removal 190: 
+Optimal Number of Guards: 369
+
+Removal 191: 
+Optimal Number of Guards: 368
+
+Removal 192: 
+Optimal Number of Guards: 368
+
+Removal 193: 
+Optimal Number of Guards: 368
+
+Removal 194: 
+Optimal Number of Guards: 367
+
+Removal 195: 
+Optimal Number of Guards: 367
+
+Removal 196: 
+Optimal Number of Guards: 366
+
+Removal 197: 
+Optimal Number of Guards: 366
+
+Removal 198: 
+Optimal Number of Guards: 366
+
+Removal 199: 
+Optimal Number of Guards: 366
+
+Removal 200: 
+Optimal Number of Guards: 366
+
+Removal 201: 
+Optimal Number of Guards: 365
+
+Removal 202: 
+Optimal Number of Guards: 365
+
+Removal 203: 
+Optimal Number of Guards: 365
+
+Removal 204: 
+Optimal Number of Guards: 364
+
+Removal 205: 
+Optimal Number of Guards: 364
+
+Removal 206: 
+Optimal Number of Guards: 363
+
+Removal 207: 
+Optimal Number of Guards: 363
+
+Removal 208: 
+Optimal Number of Guards: 363
+
+Removal 209: 
+Optimal Number of Guards: 362
+
+Removal 210: 
+Optimal Number of Guards: 362
+
+Removal 211: 
+Optimal Number of Guards: 362
+
+Removal 212: 
+Optimal Number of Guards: 361
+
+Removal 213: 
+Optimal Number of Guards: 361
+
+Removal 214: 
+Optimal Number of Guards: 361
+
+Removal 215: 
+Optimal Number of Guards: 360
+
+Removal 216: 
+Optimal Number of Guards: 360
+
+Removal 217: 
+Optimal Number of Guards: 359
+
+Removal 218: 
+Optimal Number of Guards: 359
+
+Removal 219: 
+Optimal Number of Guards: 359
+
+Removal 220: 
+Optimal Number of Guards: 358
+
+Removal 221: 
+Optimal Number of Guards: 358
+
+Removal 222: 
+Optimal Number of Guards: 358
+
+Removal 223: 
+Optimal Number of Guards: 357
+
+Removal 224: 
+Optimal Number of Guards: 357
+
+Removal 225: 
+Optimal Number of Guards: 356
+
+Removal 226: 
+Optimal Number of Guards: 356
+
+Removal 227: 
+Optimal Number of Guards: 356
+
+Removal 228: 
+Optimal Number of Guards: 355
+
+Removal 229: 
+Optimal Number of Guards: 355
+
+Removal 230: 
+Optimal Number of Guards: 355
+
+Removal 231: 
+Optimal Number of Guards: 355
+
+Removal 232: 
+Optimal Number of Guards: 355
+
+Removal 233: 
+Optimal Number of Guards: 354
+
+Removal 234: 
+Optimal Number of Guards: 354
+
+Removal 235: 
+Optimal Number of Guards: 354
+
+Removal 236: 
+Optimal Number of Guards: 353
+
+Removal 237: 
+Optimal Number of Guards: 353
+
+Removal 238: 
+Optimal Number of Guards: 352
+
+Removal 239: 
+Optimal Number of Guards: 352
+
+Removal 240: 
+Optimal Number of Guards: 351
+
+Removal 241: 
+Optimal Number of Guards: 351
+
+Removal 242: 
+Optimal Number of Guards: 351
+
+Removal 243: 
+Optimal Number of Guards: 351
+
+Removal 244: 
+Optimal Number of Guards: 350
+
+Removal 245: 
+Optimal Number of Guards: 350
+
+Removal 246: 
+Optimal Number of Guards: 350
+
+Removal 247: 
+Optimal Number of Guards: 349
+
+Removal 248: 
+Optimal Number of Guards: 349
+
+Removal 249: 
+Optimal Number of Guards: 349
+
+Removal 250: 
+Optimal Number of Guards: 348
+
+Removal 251: 
+Optimal Number of Guards: 348
+
+Removal 252: 
+Optimal Number of Guards: 348
+
+Removal 253: 
+Optimal Number of Guards: 348
+
+Removal 254: 
+Optimal Number of Guards: 348
+
+Removal 255: 
+Optimal Number of Guards: 348
+
+Removal 256: 
+Optimal Number of Guards: 347
+
+Removal 257: 
+Optimal Number of Guards: 347
+
+Removal 258: 
+Optimal Number of Guards: 347
+
+Removal 259: 
+Optimal Number of Guards: 346
+
+Removal 260: 
+Optimal Number of Guards: 346
+
+Removal 261: 
+Optimal Number of Guards: 345
+
+Removal 262: 
+Optimal Number of Guards: 345
+
+Removal 263: 
+Optimal Number of Guards: 344
+
+Removal 264: 
+Optimal Number of Guards: 344
+
+Removal 265: 
+Optimal Number of Guards: 344
+
+Removal 266: 
+Optimal Number of Guards: 344
+
+Removal 267: 
+Optimal Number of Guards: 343
+
+Removal 268: 
+Optimal Number of Guards: 343
+
+Removal 269: 
+Optimal Number of Guards: 343
+
+Removal 270: 
+Optimal Number of Guards: 343
+
+Removal 271: 
+Optimal Number of Guards: 342
+
+Removal 272: 
+Optimal Number of Guards: 342
+
+Removal 273: 
+Optimal Number of Guards: 341
+
+Removal 274: 
+Optimal Number of Guards: 341
+
+Removal 275: 
+Optimal Number of Guards: 341
+
+Removal 276: 
+Optimal Number of Guards: 340
+
+Removal 277: 
+Optimal Number of Guards: 340
+
+Removal 278: 
+Optimal Number of Guards: 339
+
+Removal 279: 
+Optimal Number of Guards: 339
+
+Removal 280: 
+Optimal Number of Guards: 339
+
+Removal 281: 
+Optimal Number of Guards: 338
+
+Removal 282: 
+Optimal Number of Guards: 338
+
+Removal 283: 
+Optimal Number of Guards: 337
+
+Removal 284: 
+Optimal Number of Guards: 337
+
+Removal 285: 
+Optimal Number of Guards: 337
+
+Removal 286: 
+Optimal Number of Guards: 336
+
+Removal 287: 
+Optimal Number of Guards: 336
+
+Removal 288: 
+Optimal Number of Guards: 335
+
+Removal 289: 
+Optimal Number of Guards: 335
+
+Removal 290: 
+Optimal Number of Guards: 334
+
+Removal 291: 
+Optimal Number of Guards: 334
+
+Removal 292: 
+Optimal Number of Guards: 334
+
+Removal 293: 
+Optimal Number of Guards: 334
+
+Removal 294: 
+Optimal Number of Guards: 333
+
+Removal 295: 
+Optimal Number of Guards: 333
+
+Removal 296: 
+Optimal Number of Guards: 332
+
+Removal 297: 
+Optimal Number of Guards: 332
+
+Removal 298: 
+Optimal Number of Guards: 331
+
+Removal 299: 
+Optimal Number of Guards: 331
+
+Removal 300: 
+Optimal Number of Guards: 330
+
+Removal 301: 
+Optimal Number of Guards: 330
+
+Removal 302: 
+Optimal Number of Guards: 329
+
+Removal 303: 
+Optimal Number of Guards: 329
+
+Removal 304: 
+Optimal Number of Guards: 329
+
+Removal 305: 
+Optimal Number of Guards: 329
+
+Removal 306: 
+Optimal Number of Guards: 328
+
+Removal 307: 
+Optimal Number of Guards: 328
+
+Removal 308: 
+Optimal Number of Guards: 327
+
+Removal 309: 
+Optimal Number of Guards: 327
+
+Removal 310: 
+Optimal Number of Guards: 326
+
+Removal 311: 
+Optimal Number of Guards: 326
+
+Removal 312: 
+Optimal Number of Guards: 325
+
+Removal 313: 
+Optimal Number of Guards: 325
+
+Removal 314: 
+Optimal Number of Guards: 325
+
+Removal 315: 
+Optimal Number of Guards: 324
+
+Removal 316: 
+Optimal Number of Guards: 324
+
+Removal 317: 
+Optimal Number of Guards: 324
+
+Removal 318: 
+Optimal Number of Guards: 323
+
+Removal 319: 
+Optimal Number of Guards: 323
+
+Removal 320: 
+Optimal Number of Guards: 323
+
+Removal 321: 
+Optimal Number of Guards: 323
+
+Removal 322: 
+Optimal Number of Guards: 323
+
+Removal 323: 
+Optimal Number of Guards: 323
+
+Removal 324: 
+Optimal Number of Guards: 323
+
+Removal 325: 
+Optimal Number of Guards: 322
+
+Removal 326: 
+Optimal Number of Guards: 322
+
+Removal 327: 
+Optimal Number of Guards: 322
+
+Removal 328: 
+Optimal Number of Guards: 321
+
+Removal 329: 
+Optimal Number of Guards: 321
+
+Removal 330: 
+Optimal Number of Guards: 320
+
+Removal 331: 
+Optimal Number of Guards: 320
+
+Removal 332: 
+Optimal Number of Guards: 320
+
+Removal 333: 
+Optimal Number of Guards: 319
+
+Removal 334: 
+Optimal Number of Guards: 319
+
+Removal 335: 
+Optimal Number of Guards: 318
+
+Removal 336: 
+Optimal Number of Guards: 318
+
+Removal 337: 
+Optimal Number of Guards: 317
+
+Removal 338: 
+Optimal Number of Guards: 317
+
+Removal 339: 
+Optimal Number of Guards: 317
+
+Removal 340: 
+Optimal Number of Guards: 316
+
+Removal 341: 
+Optimal Number of Guards: 316
+
+Removal 342: 
+Optimal Number of Guards: 316
+
+Removal 343: 
+Optimal Number of Guards: 315
+
+Removal 344: 
+Optimal Number of Guards: 315
+
+Removal 345: 
+Optimal Number of Guards: 315
+
+Removal 346: 
+Optimal Number of Guards: 315
+
+Removal 347: 
+Optimal Number of Guards: 315
+
+Removal 348: 
+Optimal Number of Guards: 314
+
+Removal 349: 
+Optimal Number of Guards: 314
+
+Removal 350: 
+Optimal Number of Guards: 313
+
+Removal 351: 
+Optimal Number of Guards: 313
+
+Removal 352: 
+Optimal Number of Guards: 312
+
+Removal 353: 
+Optimal Number of Guards: 312
+
+Removal 354: 
+Optimal Number of Guards: 311
+
+Removal 355: 
+Optimal Number of Guards: 311
+
+Removal 356: 
+Optimal Number of Guards: 310
+
+Removal 357: 
+Optimal Number of Guards: 310
+
+Removal 358: 
+Optimal Number of Guards: 309
+
+Removal 359: 
+Optimal Number of Guards: 309
+
+Removal 360: 
+Optimal Number of Guards: 309
+
+Removal 361: 
+Optimal Number of Guards: 308
+
+Removal 362: 
+Optimal Number of Guards: 308
+
+Removal 363: 
+Optimal Number of Guards: 307
+
+Removal 364: 
+Optimal Number of Guards: 307
+
+Removal 365: 
+Optimal Number of Guards: 306
+
+Removal 366: 
+Optimal Number of Guards: 306
+
+Removal 367: 
+Optimal Number of Guards: 306
+
+Removal 368: 
+Optimal Number of Guards: 306
+
+Removal 369: 
+Optimal Number of Guards: 305
+
+Removal 370: 
+Optimal Number of Guards: 305
+
+Removal 371: 
+Optimal Number of Guards: 304
+
+Removal 372: 
+Optimal Number of Guards: 304
+
+Removal 373: 
+Optimal Number of Guards: 304
+
+Removal 374: 
+Optimal Number of Guards: 304
+
+Removal 375: 
+Optimal Number of Guards: 303
+
+Removal 376: 
+Optimal Number of Guards: 303
+
+Removal 377: 
+Optimal Number of Guards: 302
+
+Removal 378: 
+Optimal Number of Guards: 302
+
+Removal 379: 
+Optimal Number of Guards: 301
+
+Removal 380: 
+Optimal Number of Guards: 301
+
+Removal 381: 
+Optimal Number of Guards: 301
+
+Removal 382: 
+Optimal Number of Guards: 300
+
+Removal 383: 
+Optimal Number of Guards: 300
+
+Removal 384: 
+Optimal Number of Guards: 300
+
+Removal 385: 
+Optimal Number of Guards: 300
+
+Removal 386: 
+Optimal Number of Guards: 300
+
+Removal 387: 
+Optimal Number of Guards: 299
+
+Removal 388: 
+Optimal Number of Guards: 299
+
+Removal 389: 
+Optimal Number of Guards: 298
+
+Removal 390: 
+Optimal Number of Guards: 298
+
+Removal 391: 
+Optimal Number of Guards: 298
+
+Removal 392: 
+Optimal Number of Guards: 297
+
+Removal 393: 
+Optimal Number of Guards: 297
+
+Removal 394: 
+Optimal Number of Guards: 297
+
+Removal 395: 
+Optimal Number of Guards: 296
+
+Removal 396: 
+Optimal Number of Guards: 296
+
+Removal 397: 
+Optimal Number of Guards: 296
+
+Removal 398: 
+Optimal Number of Guards: 296
+
+Removal 399: 
+Optimal Number of Guards: 295
+
+Removal 400: 
+Optimal Number of Guards: 295
+
+Removal 401: 
+Optimal Number of Guards: 295
+
+Removal 402: 
+Optimal Number of Guards: 295
+
+Removal 403: 
+Optimal Number of Guards: 295
+
+Removal 404: 
+Optimal Number of Guards: 294
+
+Removal 405: 
+Optimal Number of Guards: 293
+
+Removal 406: 
+Optimal Number of Guards: 293
+
+Removal 407: 
+Optimal Number of Guards: 293
+
+Removal 408: 
+Optimal Number of Guards: 293
+
+Removal 409: 
+Optimal Number of Guards: 293
+
+Removal 410: 
+Optimal Number of Guards: 293
+
+Removal 411: 
+Optimal Number of Guards: 292
+
+Removal 412: 
+Optimal Number of Guards: 292
+
+Removal 413: 
+Optimal Number of Guards: 292
+
+Removal 414: 
+Optimal Number of Guards: 292
+
+Removal 415: 
+Optimal Number of Guards: 292
+
+Removal 416: 
+Optimal Number of Guards: 292
+
+Removal 417: 
+Optimal Number of Guards: 291
+
+Removal 418: 
+Optimal Number of Guards: 291
+
+Removal 419: 
+Optimal Number of Guards: 290
+
+Removal 420: 
+Optimal Number of Guards: 290
+
+Removal 421: 
+Optimal Number of Guards: 290
+
+Removal 422: 
+Optimal Number of Guards: 289
+
+Removal 423: 
+Optimal Number of Guards: 289
+
+Removal 424: 
+Optimal Number of Guards: 289
+
+Removal 425: 
+Optimal Number of Guards: 289
+
+Removal 426: 
+Optimal Number of Guards: 289
+
+Removal 427: 
+Optimal Number of Guards: 289
+
+Removal 428: 
+Optimal Number of Guards: 289
+
+Removal 429: 
+Optimal Number of Guards: 289
+
+Removal 430: 
+Optimal Number of Guards: 288
+
+Removal 431: 
+Optimal Number of Guards: 288
+
+Removal 432: 
+Optimal Number of Guards: 287
+
+Removal 433: 
+Optimal Number of Guards: 287
+
+Removal 434: 
+Optimal Number of Guards: 286
+
+Removal 435: 
+Optimal Number of Guards: 286
+
+Removal 436: 
+Optimal Number of Guards: 285
+
+Removal 437: 
+Optimal Number of Guards: 285
+
+Removal 438: 
+Optimal Number of Guards: 284
+
+Removal 439: 
+Optimal Number of Guards: 284
+
+Removal 440: 
+Optimal Number of Guards: 284
+
+Removal 441: 
+Optimal Number of Guards: 283
+
+Removal 442: 
+Optimal Number of Guards: 283
+
+Removal 443: 
+Optimal Number of Guards: 283
+
+Removal 444: 
+Optimal Number of Guards: 283
+
+Removal 445: 
+Optimal Number of Guards: 283
+
+Removal 446: 
+Optimal Number of Guards: 283
+
+Removal 447: 
+Optimal Number of Guards: 282
+
+Removal 448: 
+Optimal Number of Guards: 283
+
+Removal 449: 
+Optimal Number of Guards: 282
+
+Removal 450: 
+Optimal Number of Guards: 282
+
+Removal 451: 
+Optimal Number of Guards: 281
+
+Removal 452: 
+Optimal Number of Guards: 281
+
+Removal 453: 
+Optimal Number of Guards: 281
+
+Removal 454: 
+Optimal Number of Guards: 280
+
+Removal 455: 
+Optimal Number of Guards: 280
+
+Removal 456: 
+Optimal Number of Guards: 279
+
+Removal 457: 
+Optimal Number of Guards: 279
+
+Removal 458: 
+Optimal Number of Guards: 279
+
+Removal 459: 
+Optimal Number of Guards: 279
+
+Removal 460: 
+Optimal Number of Guards: 279
+
+Removal 461: 
+Optimal Number of Guards: 278
+
+Removal 462: 
+Optimal Number of Guards: 278
+
+Removal 463: 
+Optimal Number of Guards: 277
+
+Removal 464: 
+Optimal Number of Guards: 277
+
+Removal 465: 
+Optimal Number of Guards: 276
+
+Removal 466: 
+Optimal Number of Guards: 276
+
+Removal 467: 
+Optimal Number of Guards: 275
+
+Removal 468: 
+Optimal Number of Guards: 275
+
+Removal 469: 
+Optimal Number of Guards: 275
+
+Removal 470: 
+Optimal Number of Guards: 274
+
+Removal 471: 
+Optimal Number of Guards: 274
+
+Removal 472: 
+Optimal Number of Guards: 274
+
+Removal 473: 
+Optimal Number of Guards: 273
+
+Removal 474: 
+Optimal Number of Guards: 273
+
+Removal 475: 
+Optimal Number of Guards: 272
+
+Removal 476: 
+Optimal Number of Guards: 272
+
+Removal 477: 
+Optimal Number of Guards: 271
+
+Removal 478: 
+Optimal Number of Guards: 271
+
+Removal 479: 
+Optimal Number of Guards: 271
+
+Removal 480: 
+Optimal Number of Guards: 270
+
+Removal 481: 
+Optimal Number of Guards: 270
+
+Removal 482: 
+Optimal Number of Guards: 269
+
+Removal 483: 
+Optimal Number of Guards: 269
+
+Removal 484: 
+Optimal Number of Guards: 269
+
+Removal 485: 
+Optimal Number of Guards: 269
+
+Removal 486: 
+Optimal Number of Guards: 268
+
+Removal 487: 
+Optimal Number of Guards: 268
+
+Removal 488: 
+Optimal Number of Guards: 267
+
+Removal 489: 
+Optimal Number of Guards: 267
+
+Removal 490: 
+Optimal Number of Guards: 266
+
+Removal 491: 
+Optimal Number of Guards: 266
+
+Removal 492: 
+Optimal Number of Guards: 265
+
+Removal 493: 
+Optimal Number of Guards: 265
+
+Removal 494: 
+Optimal Number of Guards: 265
+
+Removal 495: 
+Optimal Number of Guards: 264
+
+Removal 496: 
+Optimal Number of Guards: 264
+
+Removal 497: 
+Optimal Number of Guards: 264
+
+Removal 498: 
+Optimal Number of Guards: 264
+
+Removal 499: 
+Optimal Number of Guards: 263
+
+Removal 500: 
+Optimal Number of Guards: 263
+
+Removal 501: 
+Optimal Number of Guards: 263
+
+Removal 502: 
+Optimal Number of Guards: 262
+
+Removal 503: 
+Optimal Number of Guards: 262
+
+Removal 504: 
+Optimal Number of Guards: 261
+
+Removal 505: 
+Optimal Number of Guards: 261
+
+Removal 506: 
+Optimal Number of Guards: 260
+
+Removal 507: 
+Optimal Number of Guards: 260
+
+Removal 508: 
+Optimal Number of Guards: 259
+
+Removal 509: 
+Optimal Number of Guards: 259
+
+Removal 510: 
+Optimal Number of Guards: 258
+
+Removal 511: 
+Optimal Number of Guards: 258
+
+Removal 512: 
+Optimal Number of Guards: 257
+
+Removal 513: 
+Optimal Number of Guards: 257
+
+Removal 514: 
+Optimal Number of Guards: 257
+
+Removal 515: 
+Optimal Number of Guards: 257
+
+Removal 516: 
+Optimal Number of Guards: 256
+
+Removal 517: 
+Optimal Number of Guards: 256
+
+Removal 518: 
+Optimal Number of Guards: 255
+
+Removal 519: 
+Optimal Number of Guards: 255
+
+Removal 520: 
+Optimal Number of Guards: 254
+
+Removal 521: 
+Optimal Number of Guards: 254
+
+Removal 522: 
+Optimal Number of Guards: 253
+
+Removal 523: 
+Optimal Number of Guards: 253
+
+Removal 524: 
+Optimal Number of Guards: 253
+
+Removal 525: 
+Optimal Number of Guards: 252
+
+Removal 526: 
+Optimal Number of Guards: 252
+
+Removal 527: 
+Optimal Number of Guards: 252
+
+Removal 528: 
+Optimal Number of Guards: 251
+
+Removal 529: 
+Optimal Number of Guards: 251
+
+Removal 530: 
+Optimal Number of Guards: 251
+
+Removal 531: 
+Optimal Number of Guards: 250
+
+Removal 532: 
+Optimal Number of Guards: 250
+
+Removal 533: 
+Optimal Number of Guards: 250
+
+Removal 534: 
+Optimal Number of Guards: 250
+
+Removal 535: 
+Optimal Number of Guards: 250
+
+Removal 536: 
+Optimal Number of Guards: 250
+
+Removal 537: 
+Optimal Number of Guards: 249
+
+Removal 538: 
+Optimal Number of Guards: 249
+
+Removal 539: 
+Optimal Number of Guards: 249
+
+Removal 540: 
+Optimal Number of Guards: 249
+
+Removal 541: 
+Optimal Number of Guards: 248
+
+Removal 542: 
+Optimal Number of Guards: 248
+
+Removal 543: 
+Optimal Number of Guards: 248
+
+Removal 544: 
+Optimal Number of Guards: 247
+
+Removal 545: 
+Optimal Number of Guards: 247
+
+Removal 546: 
+Optimal Number of Guards: 247
+
+Removal 547: 
+Optimal Number of Guards: 246
+
+Removal 548: 
+Optimal Number of Guards: 246
+
+Removal 549: 
+Optimal Number of Guards: 245
+
+Removal 550: 
+Optimal Number of Guards: 245
+
+Removal 551: 
+Optimal Number of Guards: 244
+
+Removal 552: 
+Optimal Number of Guards: 244
+
+Removal 553: 
+Optimal Number of Guards: 244
+
+Removal 554: 
+Optimal Number of Guards: 244
+
+Removal 555: 
+Optimal Number of Guards: 243
+
+Removal 556: 
+Optimal Number of Guards: 243
+
+Removal 557: 
+Optimal Number of Guards: 243
+
+Removal 558: 
+Optimal Number of Guards: 242
+
+Removal 559: 
+Optimal Number of Guards: 242
+
+Removal 560: 
+Optimal Number of Guards: 241
+
+Removal 561: 
+Optimal Number of Guards: 241
+
+Removal 562: 
+Optimal Number of Guards: 241
+
+Removal 563: 
+Optimal Number of Guards: 240
+
+Removal 564: 
+Optimal Number of Guards: 240
+
+Removal 565: 
+Optimal Number of Guards: 240
+
+Removal 566: 
+Optimal Number of Guards: 240
+
+Removal 567: 
+Optimal Number of Guards: 239
+
+Removal 568: 
+Optimal Number of Guards: 239
+
+Removal 569: 
+Optimal Number of Guards: 238
+
+Removal 570: 
+Optimal Number of Guards: 238
+
+Removal 571: 
+Optimal Number of Guards: 237
+
+Removal 572: 
+Optimal Number of Guards: 237
+
+Removal 573: 
+Optimal Number of Guards: 237
+
+Removal 574: 
+Optimal Number of Guards: 236
+
+Removal 575: 
+Optimal Number of Guards: 236
+
+Removal 576: 
+Optimal Number of Guards: 236
+
+Removal 577: 
+Optimal Number of Guards: 236
+
+Removal 578: 
+Optimal Number of Guards: 235
+
+Removal 579: 
+Optimal Number of Guards: 235
+
+Removal 580: 
+Optimal Number of Guards: 234
+
+Removal 581: 
+Optimal Number of Guards: 234
+
+Removal 582: 
+Optimal Number of Guards: 233
+
+Removal 583: 
+Optimal Number of Guards: 233
+
+Removal 584: 
+Optimal Number of Guards: 233
+
+Removal 585: 
+Optimal Number of Guards: 232
+
+Removal 586: 
+Optimal Number of Guards: 232
+
+Removal 587: 
+Optimal Number of Guards: 232
+
+Removal 588: 
+Optimal Number of Guards: 231
+
+Removal 589: 
+Optimal Number of Guards: 231
+
+Removal 590: 
+Optimal Number of Guards: 230
+
+Removal 591: 
+Optimal Number of Guards: 230
+
+Removal 592: 
+Optimal Number of Guards: 230
+
+Removal 593: 
+Optimal Number of Guards: 229
+
+Removal 594: 
+Optimal Number of Guards: 229
+
+Removal 595: 
+Optimal Number of Guards: 229
+
+Removal 596: 
+Optimal Number of Guards: 229
+
+Removal 597: 
+Optimal Number of Guards: 228
+
+Removal 598: 
+Optimal Number of Guards: 228
+
+Removal 599: 
+Optimal Number of Guards: 228
+
+Removal 600: 
+Optimal Number of Guards: 228
+
+Removal 601: 
+Optimal Number of Guards: 227
+
+Removal 602: 
+Optimal Number of Guards: 227
+
+Removal 603: 
+Optimal Number of Guards: 226
+
+Removal 604: 
+Optimal Number of Guards: 226
+
+Removal 605: 
+Optimal Number of Guards: 226
+
+Removal 606: 
+Optimal Number of Guards: 225
+
+Removal 607: 
+Optimal Number of Guards: 225
+
+Removal 608: 
+Optimal Number of Guards: 225
+
+Removal 609: 
+Optimal Number of Guards: 224
+
+Removal 610: 
+Optimal Number of Guards: 224
+
+Removal 611: 
+Optimal Number of Guards: 223
+
+Removal 612: 
+Optimal Number of Guards: 223
+
+Removal 613: 
+Optimal Number of Guards: 223
+
+Removal 614: 
+Optimal Number of Guards: 223
+
+Removal 615: 
+Optimal Number of Guards: 223
+
+Removal 616: 
+Optimal Number of Guards: 223
+
+Removal 617: 
+Optimal Number of Guards: 222
+
+Removal 618: 
+Optimal Number of Guards: 222
+
+Removal 619: 
+Optimal Number of Guards: 221
+
+Removal 620: 
+Optimal Number of Guards: 221
+
+Removal 621: 
+Optimal Number of Guards: 221
+
+Removal 622: 
+Optimal Number of Guards: 221
+
+Removal 623: 
+Optimal Number of Guards: 221
+
+Removal 624: 
+Optimal Number of Guards: 221
+
+Removal 625: 
+Optimal Number of Guards: 220
+
+Removal 626: 
+Optimal Number of Guards: 220
+
+Removal 627: 
+Optimal Number of Guards: 219
+
+Removal 628: 
+Optimal Number of Guards: 219
+
+Removal 629: 
+Optimal Number of Guards: 218
+
+Removal 630: 
+Optimal Number of Guards: 218
+
+Removal 631: 
+Optimal Number of Guards: 217
+
+Removal 632: 
+Optimal Number of Guards: 217
+
+Removal 633: 
+Optimal Number of Guards: 217
+
+Removal 634: 
+Optimal Number of Guards: 216
+
+Removal 635: 
+Optimal Number of Guards: 216
+
+Removal 636: 
+Optimal Number of Guards: 215
+
+Removal 637: 
+Optimal Number of Guards: 215
+
+Removal 638: 
+Optimal Number of Guards: 215
+
+Removal 639: 
+Optimal Number of Guards: 214
+
+Removal 640: 
+Optimal Number of Guards: 214
+
+Removal 641: 
+Optimal Number of Guards: 214
+
+Removal 642: 
+Optimal Number of Guards: 214
+
+Removal 643: 
+Optimal Number of Guards: 213
+
+Removal 644: 
+Optimal Number of Guards: 213
+
+Removal 645: 
+Optimal Number of Guards: 212
+
+Removal 646: 
+Optimal Number of Guards: 212
+
+Removal 647: 
+Optimal Number of Guards: 212
+
+Removal 648: 
+Optimal Number of Guards: 212
+
+Removal 649: 
+Optimal Number of Guards: 211
+
+Removal 650: 
+Optimal Number of Guards: 211
+
+Removal 651: 
+Optimal Number of Guards: 210
+
+Removal 652: 
+Optimal Number of Guards: 210
+
+Removal 653: 
+Optimal Number of Guards: 209
+
+Removal 654: 
+Optimal Number of Guards: 209
+
+Removal 655: 
+Optimal Number of Guards: 209
+
+Removal 656: 
+Optimal Number of Guards: 208
+
+Removal 657: 
+Optimal Number of Guards: 208
+
+Removal 658: 
+Optimal Number of Guards: 207
+
+Removal 659: 
+Optimal Number of Guards: 207
+
+Removal 660: 
+Optimal Number of Guards: 206
+
+Removal 661: 
+Optimal Number of Guards: 206
+
+Removal 662: 
+Optimal Number of Guards: 205
+
+Removal 663: 
+Optimal Number of Guards: 205
+
+Removal 664: 
+Optimal Number of Guards: 204
+
+Removal 665: 
+Optimal Number of Guards: 204
+
+Removal 666: 
+Optimal Number of Guards: 204
+
+Removal 667: 
+Optimal Number of Guards: 203
+
+Removal 668: 
+Optimal Number of Guards: 203
+
+Removal 669: 
+Optimal Number of Guards: 202
+
+Removal 670: 
+Optimal Number of Guards: 202
+
+Removal 671: 
+Optimal Number of Guards: 202
+
+Removal 672: 
+Optimal Number of Guards: 201
+
+Removal 673: 
+Optimal Number of Guards: 201
+
+Removal 674: 
+Optimal Number of Guards: 200
+
+Removal 675: 
+Optimal Number of Guards: 200
+
+Removal 676: 
+Optimal Number of Guards: 199
+
+Removal 677: 
+Optimal Number of Guards: 199
+
+Removal 678: 
+Optimal Number of Guards: 199
+
+Removal 679: 
+Optimal Number of Guards: 198
+
+Removal 680: 
+Optimal Number of Guards: 198
+
+Removal 681: 
+Optimal Number of Guards: 197
+
+Removal 682: 
+Optimal Number of Guards: 197
+
+Removal 683: 
+Optimal Number of Guards: 196
+
+Removal 684: 
+Optimal Number of Guards: 196
+
+Removal 685: 
+Optimal Number of Guards: 195
+
+Removal 686: 
+Optimal Number of Guards: 195
+
+Removal 687: 
+Optimal Number of Guards: 195
+
+Removal 688: 
+Optimal Number of Guards: 195
+
+Removal 689: 
+Optimal Number of Guards: 194
+
+Removal 690: 
+Optimal Number of Guards: 194
+
+Removal 691: 
+Optimal Number of Guards: 194
+
+Removal 692: 
+Optimal Number of Guards: 193
+
+Removal 693: 
+Optimal Number of Guards: 193
+
+Removal 694: 
+Optimal Number of Guards: 193
+
+Removal 695: 
+Optimal Number of Guards: 193
+
+Removal 696: 
+Optimal Number of Guards: 193
+
+Removal 697: 
+Optimal Number of Guards: 193
+
+Removal 698: 
+Optimal Number of Guards: 193
+
+Removal 699: 
+Optimal Number of Guards: 192
+
+Removal 700: 
+Optimal Number of Guards: 192
+
+Removal 701: 
+Optimal Number of Guards: 192
+
+Removal 702: 
+Optimal Number of Guards: 192
+
+Removal 703: 
+Optimal Number of Guards: 192
+
+Removal 704: 
+Optimal Number of Guards: 191
+
+Removal 705: 
+Optimal Number of Guards: 190
+
+Removal 706: 
+Optimal Number of Guards: 189
+
+Removal 707: 
+Optimal Number of Guards: 189
+
+Removal 708: 
+Optimal Number of Guards: 189
+
+Removal 709: 
+Optimal Number of Guards: 188
+
+Removal 710: 
+Optimal Number of Guards: 188
+
+Removal 711: 
+Optimal Number of Guards: 188
+
+Removal 712: 
+Optimal Number of Guards: 187
+
+Removal 713: 
+Optimal Number of Guards: 187
+
+Removal 714: 
+Optimal Number of Guards: 187
+
+Removal 715: 
+Optimal Number of Guards: 186
+
+Removal 716: 
+Optimal Number of Guards: 186
+
+Removal 717: 
+Optimal Number of Guards: 186
+
+Removal 718: 
+Optimal Number of Guards: 186
+
+Removal 719: 
+Optimal Number of Guards: 186
+
+Removal 720: 
+Optimal Number of Guards: 185
+
+Removal 721: 
+Optimal Number of Guards: 185
+
+Removal 722: 
+Optimal Number of Guards: 184
+
+Removal 723: 
+Optimal Number of Guards: 184
+
+Removal 724: 
+Optimal Number of Guards: 184
+
+Removal 725: 
+Optimal Number of Guards: 183
+
+Removal 726: 
+Optimal Number of Guards: 183
+
+Removal 727: 
+Optimal Number of Guards: 183
+
+Removal 728: 
+Optimal Number of Guards: 182
+
+Removal 729: 
+Optimal Number of Guards: 182
+
+Removal 730: 
+Optimal Number of Guards: 181
+
+Removal 731: 
+Optimal Number of Guards: 181
+
+Removal 732: 
+Optimal Number of Guards: 181
+
+Removal 733: 
+Optimal Number of Guards: 180
+
+Removal 734: 
+Optimal Number of Guards: 180
+
+Removal 735: 
+Optimal Number of Guards: 180
+
+Removal 736: 
+Optimal Number of Guards: 180
+
+Removal 737: 
+Optimal Number of Guards: 179
+
+Removal 738: 
+Optimal Number of Guards: 179
+
+Removal 739: 
+Optimal Number of Guards: 178
+
+Removal 740: 
+Optimal Number of Guards: 178
+
+Removal 741: 
+Optimal Number of Guards: 177
+
+Removal 742: 
+Optimal Number of Guards: 177
+
+Removal 743: 
+Optimal Number of Guards: 177
+
+Removal 744: 
+Optimal Number of Guards: 176
+
+Removal 745: 
+Optimal Number of Guards: 176
+
+Removal 746: 
+Optimal Number of Guards: 176
+
+Removal 747: 
+Optimal Number of Guards: 175
+
+Removal 748: 
+Optimal Number of Guards: 175
+
+Removal 749: 
+Optimal Number of Guards: 175
+
+Removal 750: 
+Optimal Number of Guards: 175
+
+Removal 751: 
+Optimal Number of Guards: 174
+
+Removal 752: 
+Optimal Number of Guards: 174
+
+Removal 753: 
+Optimal Number of Guards: 174
+
+Removal 754: 
+Optimal Number of Guards: 173
+
+Removal 755: 
+Optimal Number of Guards: 173
+
+Removal 756: 
+Optimal Number of Guards: 173
+
+Removal 757: 
+Optimal Number of Guards: 172
+
+Removal 758: 
+Optimal Number of Guards: 172
+
+Removal 759: 
+Optimal Number of Guards: 172
+
+Removal 760: 
+Optimal Number of Guards: 172
+
+Removal 761: 
+Optimal Number of Guards: 171
+
+Removal 762: 
+Optimal Number of Guards: 171
+
+Removal 763: 
+Optimal Number of Guards: 171
+
+Removal 764: 
+Optimal Number of Guards: 170
+
+Removal 765: 
+Optimal Number of Guards: 170
+
+Removal 766: 
+Optimal Number of Guards: 170
+
+Removal 767: 
+Optimal Number of Guards: 169
+
+Removal 768: 
+Optimal Number of Guards: 169
+
+Removal 769: 
+Optimal Number of Guards: 169
+
+Removal 770: 
+Optimal Number of Guards: 168
+
+Removal 771: 
+Optimal Number of Guards: 168
+
+Removal 772: 
+Optimal Number of Guards: 168
+
+Removal 773: 
+Optimal Number of Guards: 167
+
+Removal 774: 
+Optimal Number of Guards: 167
+
+Removal 775: 
+Optimal Number of Guards: 167
+
+Removal 776: 
+Optimal Number of Guards: 166
+
+Removal 777: 
+Optimal Number of Guards: 166
+
+Removal 778: 
+Optimal Number of Guards: 166
+
+Removal 779: 
+Optimal Number of Guards: 165
+
+Removal 780: 
+Optimal Number of Guards: 165
+
+Removal 781: 
+Optimal Number of Guards: 164
+
+Removal 782: 
+Optimal Number of Guards: 164
+
+Removal 783: 
+Optimal Number of Guards: 163
+
+Removal 784: 
+Optimal Number of Guards: 163
+
+Removal 785: 
+Optimal Number of Guards: 163
+
+Removal 786: 
+Optimal Number of Guards: 162
+
+Removal 787: 
+Optimal Number of Guards: 162
+
+Removal 788: 
+Optimal Number of Guards: 161
+
+Removal 789: 
+Optimal Number of Guards: 161
+
+Removal 790: 
+Optimal Number of Guards: 161
+
+Removal 791: 
+Optimal Number of Guards: 161
+
+Removal 792: 
+Optimal Number of Guards: 161
+
+Removal 793: 
+Optimal Number of Guards: 160
+
+Removal 794: 
+Optimal Number of Guards: 160
+
+Removal 795: 
+Optimal Number of Guards: 160
+
+Removal 796: 
+Optimal Number of Guards: 160
+
+Removal 797: 
+Optimal Number of Guards: 159
+
+Removal 798: 
+Optimal Number of Guards: 159
+
+Removal 799: 
+Optimal Number of Guards: 159
+
+Removal 800: 
+Optimal Number of Guards: 158
+
+Removal 801: 
+Optimal Number of Guards: 158
+
+Removal 802: 
+Optimal Number of Guards: 157
+
+Removal 803: 
+Optimal Number of Guards: 157
+
+Removal 804: 
+Optimal Number of Guards: 157
+
+Removal 805: 
+Optimal Number of Guards: 156
+
+Removal 806: 
+Optimal Number of Guards: 156
+
+Removal 807: 
+Optimal Number of Guards: 155
+
+Removal 808: 
+Optimal Number of Guards: 155
+
+Removal 809: 
+Optimal Number of Guards: 155
+
+Removal 810: 
+Optimal Number of Guards: 155
+
+Removal 811: 
+Optimal Number of Guards: 154
+
+Removal 812: 
+Optimal Number of Guards: 154
+
+Removal 813: 
+Optimal Number of Guards: 153
+
+Removal 814: 
+Optimal Number of Guards: 153
+
+Removal 815: 
+Optimal Number of Guards: 152
+
+Removal 816: 
+Optimal Number of Guards: 152
+
+Removal 817: 
+Optimal Number of Guards: 151
+
+Removal 818: 
+Optimal Number of Guards: 151
+
+Removal 819: 
+Optimal Number of Guards: 151
+
+Removal 820: 
+Optimal Number of Guards: 150
+
+Removal 821: 
+Optimal Number of Guards: 150
+
+Removal 822: 
+Optimal Number of Guards: 149
+
+Removal 823: 
+Optimal Number of Guards: 149
+
+Removal 824: 
+Optimal Number of Guards: 149
+
+Removal 825: 
+Optimal Number of Guards: 149
+
+Removal 826: 
+Optimal Number of Guards: 149
+
+Removal 827: 
+Optimal Number of Guards: 149
+
+Removal 828: 
+Optimal Number of Guards: 148
+
+Removal 829: 
+Optimal Number of Guards: 148
+
+Removal 830: 
+Optimal Number of Guards: 147
+
+Removal 831: 
+Optimal Number of Guards: 147
+
+Removal 832: 
+Optimal Number of Guards: 146
+
+Removal 833: 
+Optimal Number of Guards: 146
+
+Removal 834: 
+Optimal Number of Guards: 146
+
+Removal 835: 
+Optimal Number of Guards: 145
+
+Removal 836: 
+Optimal Number of Guards: 145
+
+Removal 837: 
+Optimal Number of Guards: 144
+
+Removal 838: 
+Optimal Number of Guards: 144
+
+Removal 839: 
+Optimal Number of Guards: 143
+
+Removal 840: 
+Optimal Number of Guards: 143
+
+Removal 841: 
+Optimal Number of Guards: 143
+
+Removal 842: 
+Optimal Number of Guards: 142
+
+Removal 843: 
+Optimal Number of Guards: 142
+
+Removal 844: 
+Optimal Number of Guards: 142
+
+Removal 845: 
+Optimal Number of Guards: 141
+
+Removal 846: 
+Optimal Number of Guards: 141
+
+Removal 847: 
+Optimal Number of Guards: 141
+
+Removal 848: 
+Optimal Number of Guards: 140
+
+Removal 849: 
+Optimal Number of Guards: 140
+
+Removal 850: 
+Optimal Number of Guards: 140
+
+Removal 851: 
+Optimal Number of Guards: 140
+
+Removal 852: 
+Optimal Number of Guards: 140
+
+Removal 853: 
+Optimal Number of Guards: 139
+
+Removal 854: 
+Optimal Number of Guards: 139
+
+Removal 855: 
+Optimal Number of Guards: 138
+
+Removal 856: 
+Optimal Number of Guards: 138
+
+Removal 857: 
+Optimal Number of Guards: 138
+
+Removal 858: 
+Optimal Number of Guards: 137
+
+Removal 859: 
+Optimal Number of Guards: 137
+
+Removal 860: 
+Optimal Number of Guards: 136
+
+Removal 861: 
+Optimal Number of Guards: 136
+
+Removal 862: 
+Optimal Number of Guards: 136
+
+Removal 863: 
+Optimal Number of Guards: 135
+
+Removal 864: 
+Optimal Number of Guards: 135
+
+Removal 865: 
+Optimal Number of Guards: 135
+
+Removal 866: 
+Optimal Number of Guards: 134
+
+Removal 867: 
+Optimal Number of Guards: 134
+
+Removal 868: 
+Optimal Number of Guards: 134
+
+Removal 869: 
+Optimal Number of Guards: 133
+
+Removal 870: 
+Optimal Number of Guards: 133
+
+Removal 871: 
+Optimal Number of Guards: 132
+
+Removal 872: 
+Optimal Number of Guards: 132
+
+Removal 873: 
+Optimal Number of Guards: 131
+
+Removal 874: 
+Optimal Number of Guards: 131
+
+Removal 875: 
+Optimal Number of Guards: 130
+
+Removal 876: 
+Optimal Number of Guards: 130
+
+Removal 877: 
+Optimal Number of Guards: 130
+
+Removal 878: 
+Optimal Number of Guards: 130
+
+Removal 879: 
+Optimal Number of Guards: 130
+
+Removal 880: 
+Optimal Number of Guards: 129
+
+Removal 881: 
+Optimal Number of Guards: 129
+
+Removal 882: 
+Optimal Number of Guards: 128
+
+Removal 883: 
+Optimal Number of Guards: 128
+
+Removal 884: 
+Optimal Number of Guards: 127
+
+Removal 885: 
+Optimal Number of Guards: 127
+
+Removal 886: 
+Optimal Number of Guards: 126
+
+Removal 887: 
+Optimal Number of Guards: 126
+
+Removal 888: 
+Optimal Number of Guards: 126
+
+Removal 889: 
+Optimal Number of Guards: 125
+
+Removal 890: 
+Optimal Number of Guards: 125
+
+Removal 891: 
+Optimal Number of Guards: 125
+
+Removal 892: 
+Optimal Number of Guards: 124
+
+Removal 893: 
+Optimal Number of Guards: 124
+
+Removal 894: 
+Optimal Number of Guards: 124
+
+Removal 895: 
+Optimal Number of Guards: 123
+
+Removal 896: 
+Optimal Number of Guards: 123
+
+Removal 897: 
+Optimal Number of Guards: 122
+
+Removal 898: 
+Optimal Number of Guards: 122
+
+Removal 899: 
+Optimal Number of Guards: 122
+
+Removal 900: 
+Optimal Number of Guards: 121
+
+Removal 901: 
+Optimal Number of Guards: 121
+
+Removal 902: 
+Optimal Number of Guards: 120
+
+Removal 903: 
+Optimal Number of Guards: 120
+
+Removal 904: 
+Optimal Number of Guards: 119
+
+Removal 905: 
+Optimal Number of Guards: 119
+
+Removal 906: 
+Optimal Number of Guards: 118
+
+Removal 907: 
+Optimal Number of Guards: 118
+
+Removal 908: 
+Optimal Number of Guards: 118
+
+Removal 909: 
+Optimal Number of Guards: 117
+
+Removal 910: 
+Optimal Number of Guards: 117
+
+Removal 911: 
+Optimal Number of Guards: 117
+
+Removal 912: 
+Optimal Number of Guards: 116
+
+Removal 913: 
+Optimal Number of Guards: 116
+
+Removal 914: 
+Optimal Number of Guards: 116
+
+Removal 915: 
+Optimal Number of Guards: 115
+
+Removal 916: 
+Optimal Number of Guards: 115
+
+Removal 917: 
+Optimal Number of Guards: 115
+
+Removal 918: 
+Optimal Number of Guards: 114
+
+Removal 919: 
+Optimal Number of Guards: 114
+
+Removal 920: 
+Optimal Number of Guards: 113
+
+Removal 921: 
+Optimal Number of Guards: 113
+
+Removal 922: 
+Optimal Number of Guards: 113
+
+Removal 923: 
+Optimal Number of Guards: 113
+
+Removal 924: 
+Optimal Number of Guards: 113
+
+Removal 925: 
+Optimal Number of Guards: 113
+
+Removal 926: 
+Optimal Number of Guards: 112
+
+Removal 927: 
+Optimal Number of Guards: 112
+
+Removal 928: 
+Optimal Number of Guards: 111
+
+Removal 929: 
+Optimal Number of Guards: 111
+
+Removal 930: 
+Optimal Number of Guards: 110
+
+Removal 931: 
+Optimal Number of Guards: 110
+
+Removal 932: 
+Optimal Number of Guards: 109
+
+Removal 933: 
+Optimal Number of Guards: 109
+
+Removal 934: 
+Optimal Number of Guards: 109
+
+Removal 935: 
+Optimal Number of Guards: 109
+
+Removal 936: 
+Optimal Number of Guards: 108
+
+Removal 937: 
+Optimal Number of Guards: 108
+
+Removal 938: 
+Optimal Number of Guards: 108
+
+Removal 939: 
+Optimal Number of Guards: 107
+
+Removal 940: 
+Optimal Number of Guards: 107
+
+Removal 941: 
+Optimal Number of Guards: 106
+
+Removal 942: 
+Optimal Number of Guards: 106
+
+Removal 943: 
+Optimal Number of Guards: 106
+
+Removal 944: 
+Optimal Number of Guards: 105
+
+Removal 945: 
+Optimal Number of Guards: 105
+
+Removal 946: 
+Optimal Number of Guards: 105
+
+Removal 947: 
+Optimal Number of Guards: 104
+
+Removal 948: 
+Optimal Number of Guards: 104
+
+Removal 949: 
+Optimal Number of Guards: 103
+
+Removal 950: 
+Optimal Number of Guards: 103
+
+Removal 951: 
+Optimal Number of Guards: 102
+
+Removal 952: 
+Optimal Number of Guards: 102
+
+Removal 953: 
+Optimal Number of Guards: 102
+
+Removal 954: 
+Optimal Number of Guards: 101
+
+Removal 955: 
+Optimal Number of Guards: 101
+
+Removal 956: 
+Optimal Number of Guards: 101
+
+Removal 957: 
+Optimal Number of Guards: 101
+
+Removal 958: 
+Optimal Number of Guards: 100
+
+Removal 959: 
+Optimal Number of Guards: 100
+
+Removal 960: 
+Optimal Number of Guards: 100
+
+Removal 961: 
+Optimal Number of Guards: 99
+
+Removal 962: 
+Optimal Number of Guards: 99
+
+Removal 963: 
+Optimal Number of Guards: 98
+
+Removal 964: 
+Optimal Number of Guards: 98
+
+Removal 965: 
+Optimal Number of Guards: 97
+
+Removal 966: 
+Optimal Number of Guards: 97
+
+Removal 967: 
+Optimal Number of Guards: 97
+
+Removal 968: 
+Optimal Number of Guards: 96
+
+Removal 969: 
+Optimal Number of Guards: 96
+
+Removal 970: 
+Optimal Number of Guards: 95
+
+Removal 971: 
+Optimal Number of Guards: 95
+
+Removal 972: 
+Optimal Number of Guards: 95
+
+Removal 973: 
+Optimal Number of Guards: 94
+
+Removal 974: 
+Optimal Number of Guards: 94
+
+Removal 975: 
+Optimal Number of Guards: 94
+
+Removal 976: 
+Optimal Number of Guards: 93
+
+Removal 977: 
+Optimal Number of Guards: 93
+
+Removal 978: 
+Optimal Number of Guards: 92
+
+Removal 979: 
+Optimal Number of Guards: 92
+
+Removal 980: 
+Optimal Number of Guards: 91
+
+Removal 981: 
+Optimal Number of Guards: 91
+
+Removal 982: 
+Optimal Number of Guards: 91
+
+Removal 983: 
+Optimal Number of Guards: 91
+
+Removal 984: 
+Optimal Number of Guards: 90
+
+Removal 985: 
+Optimal Number of Guards: 90
+
+Removal 986: 
+Optimal Number of Guards: 89
+
+Removal 987: 
+Optimal Number of Guards: 88
+
+Removal 988: 
+Optimal Number of Guards: 88
+
+Removal 989: 
+Optimal Number of Guards: 87
+
+Removal 990: 
+Optimal Number of Guards: 87
+
+Removal 991: 
+Optimal Number of Guards: 86
+
+Removal 992: 
+Optimal Number of Guards: 86
+
+Removal 993: 
+Optimal Number of Guards: 85
+
+Removal 994: 
+Optimal Number of Guards: 85
+
+Removal 995: 
+Optimal Number of Guards: 85
+
+Removal 996: 
+Optimal Number of Guards: 84
+
+Removal 997: 
+Optimal Number of Guards: 84
+
+Removal 998: 
+Optimal Number of Guards: 84
+
+Removal 999: 
+Optimal Number of Guards: 84
+
+Removal 1000: 
+Optimal Number of Guards: 83
+
+Removal 1001: 
+Optimal Number of Guards: 83
+
+Removal 1002: 
+Optimal Number of Guards: 83
+
+Removal 1003: 
+Optimal Number of Guards: 83
+
+Removal 1004: 
+Optimal Number of Guards: 83
+
+Removal 1005: 
+Optimal Number of Guards: 82
+
+Removal 1006: 
+Optimal Number of Guards: 82
+
+Removal 1007: 
+Optimal Number of Guards: 82
+
+Removal 1008: 
+Optimal Number of Guards: 81
+
+Removal 1009: 
+Optimal Number of Guards: 81
+
+Removal 1010: 
+Optimal Number of Guards: 81
+
+Removal 1011: 
+Optimal Number of Guards: 81
+
+Removal 1012: 
+Optimal Number of Guards: 80
+
+Removal 1013: 
+Optimal Number of Guards: 80
+
+Removal 1014: 
+Optimal Number of Guards: 79
+
+Removal 1015: 
+Optimal Number of Guards: 79
+
+Removal 1016: 
+Optimal Number of Guards: 78
+
+Removal 1017: 
+Optimal Number of Guards: 78
+
+Removal 1018: 
+Optimal Number of Guards: 78
+
+Removal 1019: 
+Optimal Number of Guards: 78
+
+Removal 1020: 
+Optimal Number of Guards: 77
+
+Removal 1021: 
+Optimal Number of Guards: 77
+
+Removal 1022: 
+Optimal Number of Guards: 77
+
+Removal 1023: 
+Optimal Number of Guards: 76
+
+Removal 1024: 
+Optimal Number of Guards: 76
+
+Removal 1025: 
+Optimal Number of Guards: 76
+
+Removal 1026: 
+Optimal Number of Guards: 75
+
+Removal 1027: 
+Optimal Number of Guards: 75
+
+Removal 1028: 
+Optimal Number of Guards: 75
+
+Removal 1029: 
+Optimal Number of Guards: 75
+
+Removal 1030: 
+Optimal Number of Guards: 74
+
+Removal 1031: 
+Optimal Number of Guards: 74
+
+Removal 1032: 
+Optimal Number of Guards: 73
+
+Removal 1033: 
+Optimal Number of Guards: 73
+
+Removal 1034: 
+Optimal Number of Guards: 72
+
+Removal 1035: 
+Optimal Number of Guards: 72
+
+Removal 1036: 
+Optimal Number of Guards: 71
+
+Removal 1037: 
+Optimal Number of Guards: 70
+
+Removal 1038: 
+Optimal Number of Guards: 70
+
+Removal 1039: 
+Optimal Number of Guards: 70
+
+Removal 1040: 
+Optimal Number of Guards: 70
+
+Removal 1041: 
+Optimal Number of Guards: 69
+
+Removal 1042: 
+Optimal Number of Guards: 69
+
+Removal 1043: 
+Optimal Number of Guards: 69
+
+Removal 1044: 
+Optimal Number of Guards: 69
+
+Removal 1045: 
+Optimal Number of Guards: 69
+
+Removal 1046: 
+Optimal Number of Guards: 68
+
+Removal 1047: 
+Optimal Number of Guards: 68
+
+Removal 1048: 
+Optimal Number of Guards: 67
+
+Removal 1049: 
+Optimal Number of Guards: 67
+
+Removal 1050: 
+Optimal Number of Guards: 67
+
+Removal 1051: 
+Optimal Number of Guards: 66
+
+Removal 1052: 
+Optimal Number of Guards: 66
+
+Removal 1053: 
+Optimal Number of Guards: 66
+
+Removal 1054: 
+Optimal Number of Guards: 66
+
+Removal 1055: 
+Optimal Number of Guards: 65
+
+Removal 1056: 
+Optimal Number of Guards: 65
+
+Removal 1057: 
+Optimal Number of Guards: 64
+
+Removal 1058: 
+Optimal Number of Guards: 64
+
+Removal 1059: 
+Optimal Number of Guards: 64
+
+Removal 1060: 
+Optimal Number of Guards: 64
+
+Removal 1061: 
+Optimal Number of Guards: 63
+
+Removal 1062: 
+Optimal Number of Guards: 63
+
+Removal 1063: 
+Optimal Number of Guards: 62
+
+Removal 1064: 
+Optimal Number of Guards: 62
+
+Removal 1065: 
+Optimal Number of Guards: 62
+
+Removal 1066: 
+Optimal Number of Guards: 62
+
+Removal 1067: 
+Optimal Number of Guards: 61
+
+Removal 1068: 
+Optimal Number of Guards: 61
+
+Removal 1069: 
+Optimal Number of Guards: 61
+
+Removal 1070: 
+Optimal Number of Guards: 60
+
+Removal 1071: 
+Optimal Number of Guards: 60
+
+Removal 1072: 
+Optimal Number of Guards: 60
+
+Removal 1073: 
+Optimal Number of Guards: 59
+
+Removal 1074: 
+Optimal Number of Guards: 59
+
+Removal 1075: 
+Optimal Number of Guards: 58
+
+Removal 1076: 
+Optimal Number of Guards: 58
+
+Removal 1077: 
+Optimal Number of Guards: 58
+
+Removal 1078: 
+Optimal Number of Guards: 57
+
+Removal 1079: 
+Optimal Number of Guards: 57
+
+Removal 1080: 
+Optimal Number of Guards: 57
+
+Removal 1081: 
+Optimal Number of Guards: 56
+
+Removal 1082: 
+Optimal Number of Guards: 55
+
+Removal 1083: 
+Optimal Number of Guards: 54
+
+Removal 1084: 
+Optimal Number of Guards: 53
+
+Removal 1085: 
+Optimal Number of Guards: 53
+
+Removal 1086: 
+Optimal Number of Guards: 52
+
+Removal 1087: 
+Optimal Number of Guards: 52
+
+Removal 1088: 
+Optimal Number of Guards: 51
+
+Removal 1089: 
+Optimal Number of Guards: 51
+
+Removal 1090: 
+Optimal Number of Guards: 51
+
+Removal 1091: 
+Optimal Number of Guards: 51
+
+Removal 1092: 
+Optimal Number of Guards: 51
+
+Removal 1093: 
+Optimal Number of Guards: 51
+
+Removal 1094: 
+Optimal Number of Guards: 50
+
+Removal 1095: 
+Optimal Number of Guards: 50
+
+Removal 1096: 
+Optimal Number of Guards: 50
+
+Removal 1097: 
+Optimal Number of Guards: 50
+
+Removal 1098: 
+Optimal Number of Guards: 49
+
+Removal 1099: 
+Optimal Number of Guards: 49
+
+Removal 1100: 
+Optimal Number of Guards: 49
+
+Removal 1101: 
+Optimal Number of Guards: 48
+
+Removal 1102: 
+Optimal Number of Guards: 48
+
+Removal 1103: 
+Optimal Number of Guards: 48
+
+Removal 1104: 
+Optimal Number of Guards: 48
+
+Removal 1105: 
+Optimal Number of Guards: 47
+
+Removal 1106: 
+Optimal Number of Guards: 47
+
+Removal 1107: 
+Optimal Number of Guards: 47
+
+Removal 1108: 
+Optimal Number of Guards: 46
+
+Removal 1109: 
+Optimal Number of Guards: 46
+
+Removal 1110: 
+Optimal Number of Guards: 46
+
+Removal 1111: 
+Optimal Number of Guards: 46
+
+Removal 1112: 
+Optimal Number of Guards: 46
+
+Removal 1113: 
+Optimal Number of Guards: 45
+
+Removal 1114: 
+Optimal Number of Guards: 45
+
+Removal 1115: 
+Optimal Number of Guards: 45
+
+Removal 1116: 
+Optimal Number of Guards: 44
+
+Removal 1117: 
+Optimal Number of Guards: 44
+
+Removal 1118: 
+Optimal Number of Guards: 44
+
+Removal 1119: 
+Optimal Number of Guards: 43
+
+Removal 1120: 
+Optimal Number of Guards: 43
+
+Removal 1121: 
+Optimal Number of Guards: 43
+
+Removal 1122: 
+Optimal Number of Guards: 43
+
+Removal 1123: 
+Optimal Number of Guards: 42
+
+Removal 1124: 
+Optimal Number of Guards: 42
+
+Removal 1125: 
+Optimal Number of Guards: 42
+
+Removal 1126: 
+Optimal Number of Guards: 42
+
+Removal 1127: 
+Optimal Number of Guards: 41
+
+Removal 1128: 
+Optimal Number of Guards: 41
+
+Removal 1129: 
+Optimal Number of Guards: 41
+
+Removal 1130: 
+Optimal Number of Guards: 41
+
+Removal 1131: 
+Optimal Number of Guards: 40
+
+Removal 1132: 
+Optimal Number of Guards: 40
+
+Removal 1133: 
+Optimal Number of Guards: 40
+
+Removal 1134: 
+Optimal Number of Guards: 40
+
+Removal 1135: 
+Optimal Number of Guards: 40
+
+Removal 1136: 
+Optimal Number of Guards: 39
+
+Removal 1137: 
+Optimal Number of Guards: 39
+
+Removal 1138: 
+Optimal Number of Guards: 39
+
+Removal 1139: 
+Optimal Number of Guards: 38
+
+Removal 1140: 
+Optimal Number of Guards: 38
+
+Removal 1141: 
+Optimal Number of Guards: 38
+
+Removal 1142: 
+Optimal Number of Guards: 37
+
+Removal 1143: 
+Optimal Number of Guards: 37
+
+Removal 1144: 
+Optimal Number of Guards: 36
+
+Removal 1145: 
+Optimal Number of Guards: 36
+
+Removal 1146: 
+Optimal Number of Guards: 35
+
+Removal 1147: 
+Optimal Number of Guards: 35
+
+Removal 1148: 
+Optimal Number of Guards: 35
+
+Removal 1149: 
+Optimal Number of Guards: 34
+
+Removal 1150: 
+Optimal Number of Guards: 34
+
+Removal 1151: 
+Optimal Number of Guards: 33
+
+Removal 1152: 
+Optimal Number of Guards: 33
+
+Removal 1153: 
+Optimal Number of Guards: 32
+
+Removal 1154: 
+Optimal Number of Guards: 32
+
+Removal 1155: 
+Optimal Number of Guards: 32
+
+Removal 1156: 
+Optimal Number of Guards: 31
+
+Removal 1157: 
+Optimal Number of Guards: 31
+
+Removal 1158: 
+Optimal Number of Guards: 31
+
+Removal 1159: 
+Optimal Number of Guards: 31
+
+Removal 1160: 
+Optimal Number of Guards: 31
+
+Removal 1161: 
+Optimal Number of Guards: 30
+
+Removal 1162: 
+Optimal Number of Guards: 30
+
+Removal 1163: 
+Optimal Number of Guards: 29
+
+Removal 1164: 
+Optimal Number of Guards: 29
+
+Removal 1165: 
+Optimal Number of Guards: 28
+
+Removal 1166: 
+Optimal Number of Guards: 28
+
+Removal 1167: 
+Optimal Number of Guards: 27
+
+Removal 1168: 
+Optimal Number of Guards: 27
+
+Removal 1169: 
+Optimal Number of Guards: 26
+
+Removal 1170: 
+Optimal Number of Guards: 26
+
+Removal 1171: 
+Optimal Number of Guards: 25
+
+Removal 1172: 
+Optimal Number of Guards: 25
+
+Removal 1173: 
+Optimal Number of Guards: 25
+
+Removal 1174: 
+Optimal Number of Guards: 25
+
+Removal 1175: 
+Optimal Number of Guards: 24
+
+Removal 1176: 
+Optimal Number of Guards: 24
+
+Removal 1177: 
+Optimal Number of Guards: 23
+
+Removal 1178: 
+Optimal Number of Guards: 23
+
+Removal 1179: 
+Optimal Number of Guards: 23
+
+Removal 1180: 
+Optimal Number of Guards: 22
+
+Removal 1181: 
+Optimal Number of Guards: 22
+
+Removal 1182: 
+Optimal Number of Guards: 22
+
+Removal 1183: 
+Optimal Number of Guards: 21
+
+Removal 1184: 
+Optimal Number of Guards: 21
+
+Removal 1185: 
+Optimal Number of Guards: 21
+
+Removal 1186: 
+Optimal Number of Guards: 21
+
+Removal 1187: 
+Optimal Number of Guards: 21
+
+Removal 1188: 
+Optimal Number of Guards: 20
+
+Removal 1189: 
+Optimal Number of Guards: 20
+
+Removal 1190: 
+Optimal Number of Guards: 20
+
+Removal 1191: 
+Optimal Number of Guards: 19
+
+Removal 1192: 
+Optimal Number of Guards: 19
+
+Removal 1193: 
+Optimal Number of Guards: 18
+
+Removal 1194: 
+Optimal Number of Guards: 18
+
+Removal 1195: 
+Optimal Number of Guards: 18
+
+Removal 1196: 
+Optimal Number of Guards: 17
+
+Removal 1197: 
+Optimal Number of Guards: 17
+
+Removal 1198: 
+Optimal Number of Guards: 17
+
+Removal 1199: 
+Optimal Number of Guards: 17
+
+Removal 1200: 
+Optimal Number of Guards: 16
+
+Removal 1201: 
+Optimal Number of Guards: 16
+
+Removal 1202: 
+Optimal Number of Guards: 15
+
+Removal 1203: 
+Optimal Number of Guards: 15
+
+Removal 1204: 
+Optimal Number of Guards: 15
+
+Removal 1205: 
+Optimal Number of Guards: 15
+
+Removal 1206: 
+Optimal Number of Guards: 14
+
+Removal 1207: 
+Optimal Number of Guards: 14
+
+Removal 1208: 
+Optimal Number of Guards: 13
+
+Removal 1209: 
+Optimal Number of Guards: 13
+
+Removal 1210: 
+Optimal Number of Guards: 12
+
+Removal 1211: 
+Optimal Number of Guards: 12
+
+Removal 1212: 
+Optimal Number of Guards: 12
+
+Removal 1213: 
+Optimal Number of Guards: 11
+
+Removal 1214: 
+Optimal Number of Guards: 11
+
+Removal 1215: 
+Optimal Number of Guards: 11
+
+Removal 1216: 
+Optimal Number of Guards: 11
+
+Removal 1217: 
+Optimal Number of Guards: 10
+
+Removal 1218: 
+Optimal Number of Guards: 10
+
+Removal 1219: 
+Optimal Number of Guards: 10
+
+Removal 1220: 
+Optimal Number of Guards: 10
+
+Removal 1221: 
+Optimal Number of Guards: 10
+
+Removal 1222: 
+Optimal Number of Guards: 10
+
+Removal 1223: 
+Optimal Number of Guards: 9
+
+Removal 1224: 
+Optimal Number of Guards: 9
+
+Removal 1225: 
+Optimal Number of Guards: 9
+
+Removal 1226: 
+Optimal Number of Guards: 9
+
+Removal 1227: 
+Optimal Number of Guards: 8
+
+Removal 1228: 
+Optimal Number of Guards: 8
+
+Removal 1229: 
+Optimal Number of Guards: 8
+
+Removal 1230: 
+Optimal Number of Guards: 8
+
+Removal 1231: 
+Optimal Number of Guards: 7
+
+Removal 1232: 
+Optimal Number of Guards: 7
+
+Removal 1233: 
+Optimal Number of Guards: 6
+
+Removal 1234: 
+Optimal Number of Guards: 6
+
+Removal 1235: 
+Optimal Number of Guards: 5
+
+Removal 1236: 
+Optimal Number of Guards: 5
+
+Removal 1237: 
+Optimal Number of Guards: 5
+
+Removal 1238: 
+Optimal Number of Guards: 4
+
+Removal 1239: 
+Optimal Number of Guards: 4
+
+Removal 1240: 
+Optimal Number of Guards: 4
+
+Removal 1241: 
+Optimal Number of Guards: 3
+
+Removal 1242: 
+Optimal Number of Guards: 3
+
+Removal 1243: 
+Optimal Number of Guards: 2
+
+Removal 1244: 
+Optimal Number of Guards: 2
+
+Removal 1245: 
+Optimal Number of Guards: 2
+
+Removal 1246: 
+Optimal Number of Guards: 2
+
+Removal 1247: 
+Optimal Number of Guards: 1
+
+Removal 1248: 
+Optimal Number of Guards: 1
+

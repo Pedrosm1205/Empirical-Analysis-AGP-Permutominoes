@@ -1,0 +1,48 @@
+Removal 0: 
+Solution 0: 
+2 4
+
+Number of solutions found: 1
+
+Changes at vertices: 
+2 2 -> 2 1
+New Vertex: 3 2
+----------------------------------
+Removal 1: 
+Solution 0: 
+2 4
+
+Number of solutions found: 1
+
+Changes at vertices: 
+2 3 -> 2 2
+New Vertex: 4 3
+----------------------------------
+Removal 2: 
+Solution 0: 
+5 5
+
+Solution 1: 
+2 4
+
+Number of solutions found: 2
+
+Changes at vertices: 
+New Vertex: 2 4
+5 4 -> 5 3
+----------------------------------
+Removal 3: 
+Solution 0: 
+1 5
+
+Solution 1: 
+5 4
+
+Solution 2: 
+5 5
+
+Solution 3: 
+1 4
+
+Number of solutions found: 4
+

@@ -1,0 +1,27 @@
+Removal 0: 
+Optimal Number of Guards: 3
+
+Removal 1: 
+Optimal Number of Guards: 2
+
+Removal 2: 
+Optimal Number of Guards: 2
+
+Removal 3: 
+Optimal Number of Guards: 2
+
+Removal 4: 
+Optimal Number of Guards: 2
+
+Removal 5: 
+Optimal Number of Guards: 1
+
+Removal 6: 
+Optimal Number of Guards: 1
+
+Removal 7: 
+Optimal Number of Guards: 1
+
+Removal 8: 
+Optimal Number of Guards: 1
+

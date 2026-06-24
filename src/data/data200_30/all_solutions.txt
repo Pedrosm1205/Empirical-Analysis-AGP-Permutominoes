@@ -1,0 +1,2242 @@
+Removal 0: 
+Solution 0: 
+11 14
+15 7
+2 6
+3 3
+7 9
+9 11
+
+Solution 1: 
+11 14
+15 7
+2 6
+5 5
+7 9
+9 11
+
+Solution 2: 
+11 14
+15 7
+2 6
+3 1
+7 9
+9 11
+
+Solution 3: 
+11 14
+15 7
+2 6
+5 1
+7 9
+9 11
+
+Solution 4: 
+11 15
+15 7
+2 6
+5 1
+7 9
+9 11
+
+Solution 5: 
+12 15
+15 7
+2 6
+5 1
+7 9
+9 11
+
+Solution 6: 
+12 13
+15 7
+2 6
+5 1
+7 9
+9 11
+
+Solution 7: 
+12 13
+15 7
+2 6
+3 1
+7 9
+9 11
+
+Solution 8: 
+11 15
+15 7
+2 6
+3 1
+7 9
+9 11
+
+Solution 9: 
+12 15
+15 7
+2 6
+3 1
+7 9
+9 11
+
+Solution 10: 
+12 15
+15 7
+2 6
+5 5
+7 9
+9 11
+
+Solution 11: 
+11 15
+15 7
+2 6
+5 5
+7 9
+9 11
+
+Solution 12: 
+12 13
+15 7
+2 6
+5 5
+7 9
+9 11
+
+Solution 13: 
+12 13
+15 7
+2 6
+3 3
+7 9
+9 11
+
+Solution 14: 
+11 15
+15 7
+2 6
+3 3
+7 9
+9 11
+
+Solution 15: 
+12 15
+15 7
+2 6
+3 3
+7 9
+9 11
+
+Solution 16: 
+11 14
+14 10
+15 7
+2 6
+3 3
+7 9
+
+Solution 17: 
+11 14
+14 10
+15 7
+2 6
+5 1
+7 9
+
+Solution 18: 
+11 14
+14 10
+15 7
+2 6
+3 1
+7 9
+
+Solution 19: 
+11 14
+14 10
+15 7
+2 6
+5 5
+7 9
+
+Solution 20: 
+12 13
+14 10
+15 7
+2 6
+5 5
+7 9
+
+Solution 21: 
+12 13
+14 10
+15 7
+2 6
+5 1
+7 9
+
+Solution 22: 
+12 13
+14 10
+15 7
+2 6
+3 1
+7 9
+
+Solution 23: 
+12 13
+14 10
+15 7
+2 6
+3 3
+7 9
+
+Solution 24: 
+12 13
+15 7
+2 6
+3 3
+7 11
+7 9
+
+Solution 25: 
+12 13
+15 7
+2 6
+3 3
+7 9
+8 10
+
+Solution 26: 
+12 13
+15 7
+2 6
+5 1
+7 9
+8 10
+
+Solution 27: 
+12 13
+15 7
+2 6
+3 1
+7 9
+8 10
+
+Solution 28: 
+12 13
+15 7
+2 6
+3 1
+7 11
+7 9
+
+Solution 29: 
+12 13
+15 7
+2 6
+5 1
+7 11
+7 9
+
+Solution 30: 
+12 13
+15 7
+2 6
+5 5
+7 11
+7 9
+
+Solution 31: 
+12 13
+15 7
+2 6
+5 5
+7 9
+8 10
+
+Solution 32: 
+12 13
+15 7
+2 6
+5 5
+6 8
+8 10
+
+Solution 33: 
+12 13
+15 7
+2 6
+5 5
+6 8
+7 11
+
+Solution 34: 
+12 13
+15 7
+2 6
+3 1
+6 8
+7 11
+
+Solution 35: 
+12 13
+15 7
+2 6
+5 1
+6 8
+7 11
+
+Solution 36: 
+12 13
+15 7
+2 6
+3 3
+6 8
+7 11
+
+Solution 37: 
+12 13
+15 7
+2 6
+3 3
+6 8
+8 10
+
+Solution 38: 
+12 13
+15 7
+2 6
+5 1
+6 8
+8 10
+
+Solution 39: 
+12 13
+15 7
+2 6
+3 1
+6 8
+8 10
+
+Solution 40: 
+1 3
+12 13
+15 7
+5 5
+6 8
+8 10
+
+Solution 41: 
+12 13
+15 7
+2 12
+5 5
+6 8
+8 10
+
+Solution 42: 
+1 12
+12 13
+15 7
+5 5
+6 8
+8 10
+
+Solution 43: 
+1 12
+12 13
+15 7
+5 5
+7 9
+8 10
+
+Solution 44: 
+12 13
+15 7
+2 12
+5 5
+7 9
+8 10
+
+Solution 45: 
+1 3
+12 13
+15 7
+5 5
+7 9
+8 10
+
+Solution 46: 
+1 3
+12 13
+15 7
+5 5
+7 11
+7 9
+
+Solution 47: 
+1 3
+12 13
+14 10
+15 7
+5 5
+7 9
+
+Solution 48: 
+1 3
+12 13
+15 7
+5 5
+7 9
+9 11
+
+Solution 49: 
+12 13
+15 7
+2 12
+5 5
+7 9
+9 11
+
+Solution 50: 
+1 12
+12 13
+15 7
+5 5
+7 9
+9 11
+
+Solution 51: 
+1 12
+12 13
+15 7
+5 5
+7 11
+7 9
+
+Solution 52: 
+1 12
+12 13
+14 10
+15 7
+5 5
+7 9
+
+Solution 53: 
+12 13
+14 10
+15 7
+2 12
+5 5
+7 9
+
+Solution 54: 
+12 13
+15 7
+2 12
+5 5
+7 11
+7 9
+
+Solution 55: 
+12 13
+15 7
+2 12
+5 5
+6 8
+7 11
+
+Solution 56: 
+1 3
+12 13
+15 7
+5 5
+6 8
+7 11
+
+Solution 57: 
+1 12
+12 13
+15 7
+5 5
+6 8
+7 11
+
+Solution 58: 
+1 12
+11 14
+14 10
+15 7
+5 5
+7 9
+
+Solution 59: 
+11 14
+14 10
+15 7
+2 12
+5 5
+7 9
+
+Solution 60: 
+1 3
+11 14
+14 10
+15 7
+5 5
+7 9
+
+Solution 61: 
+1 3
+11 14
+15 7
+5 5
+7 9
+9 11
+
+Solution 62: 
+1 12
+11 14
+15 7
+5 5
+7 9
+9 11
+
+Solution 63: 
+11 14
+15 7
+2 12
+5 5
+7 9
+9 11
+
+Solution 64: 
+12 15
+15 7
+2 12
+5 5
+7 9
+9 11
+
+Solution 65: 
+11 15
+15 7
+2 12
+5 5
+7 9
+9 11
+
+Solution 66: 
+1 12
+11 15
+15 7
+5 5
+7 9
+9 11
+
+Solution 67: 
+1 12
+12 15
+15 7
+5 5
+7 9
+9 11
+
+Solution 68: 
+1 3
+12 15
+15 7
+5 5
+7 9
+9 11
+
+Solution 69: 
+1 3
+11 15
+15 7
+5 5
+7 9
+9 11
+
+Number of solutions found: 70
+
+Changes at vertices: 
+New Vertex: 3 3
+5 3 -> 5 1
+----------------------------------
+Removal 1: 
+Solution 0: 
+11 14
+15 7
+2 6
+7 9
+9 11
+
+Solution 1: 
+11 14
+14 10
+15 7
+2 6
+7 9
+
+Solution 2: 
+12 13
+14 10
+15 7
+2 6
+7 9
+
+Solution 3: 
+12 13
+15 7
+2 6
+7 11
+7 9
+
+Solution 4: 
+12 13
+15 7
+2 6
+7 9
+8 10
+
+Solution 5: 
+12 13
+15 7
+2 6
+6 8
+8 10
+
+Solution 6: 
+12 13
+15 7
+2 6
+6 8
+7 11
+
+Solution 7: 
+12 13
+15 7
+2 6
+7 9
+9 11
+
+Solution 8: 
+12 15
+15 7
+2 6
+7 9
+9 11
+
+Solution 9: 
+11 15
+15 7
+2 6
+7 9
+9 11
+
+Number of solutions found: 10
+
+Changes at vertices: 
+New Vertex: 13 4
+15 4 -> 15 2
+----------------------------------
+Removal 2: 
+Solution 0: 
+10 5
+11 14
+2 6
+7 9
+9 11
+
+Solution 1: 
+11 14
+15 7
+2 6
+7 9
+9 11
+
+Solution 2: 
+12 15
+15 7
+2 6
+7 9
+9 11
+
+Solution 3: 
+12 13
+15 7
+2 6
+7 9
+9 11
+
+Solution 4: 
+11 15
+15 7
+2 6
+7 9
+9 11
+
+Solution 5: 
+10 5
+11 15
+2 6
+7 9
+9 11
+
+Solution 6: 
+10 5
+12 13
+2 6
+7 9
+9 11
+
+Solution 7: 
+10 5
+12 15
+2 6
+7 9
+9 11
+
+Solution 8: 
+10 5
+11 14
+14 10
+2 6
+7 9
+
+Solution 9: 
+10 5
+12 13
+14 10
+2 6
+7 9
+
+Solution 10: 
+10 5
+12 13
+2 6
+7 11
+7 9
+
+Solution 11: 
+10 5
+12 13
+2 6
+7 9
+8 10
+
+Solution 12: 
+10 5
+12 13
+2 6
+6 8
+8 10
+
+Solution 13: 
+10 5
+12 13
+2 6
+6 8
+7 11
+
+Solution 14: 
+12 13
+15 7
+2 6
+6 8
+7 11
+
+Solution 15: 
+12 13
+15 7
+2 6
+6 8
+8 10
+
+Solution 16: 
+12 13
+15 7
+2 6
+7 9
+8 10
+
+Solution 17: 
+12 13
+15 7
+2 6
+7 11
+7 9
+
+Solution 18: 
+12 13
+14 10
+15 7
+2 6
+7 9
+
+Solution 19: 
+11 14
+14 10
+15 7
+2 6
+7 9
+
+Solution 20: 
+1 3
+10 5
+11 14
+14 10
+7 9
+
+Solution 21: 
+1 3
+10 5
+12 13
+14 10
+7 9
+
+Solution 22: 
+1 3
+10 5
+12 13
+7 9
+8 10
+
+Solution 23: 
+1 3
+10 5
+12 13
+7 11
+7 9
+
+Solution 24: 
+1 3
+10 5
+12 13
+7 9
+9 11
+
+Solution 25: 
+1 3
+10 5
+11 15
+7 9
+9 11
+
+Solution 26: 
+1 3
+10 5
+12 15
+7 9
+9 11
+
+Solution 27: 
+1 3
+10 5
+11 14
+7 9
+9 11
+
+Solution 28: 
+1 3
+10 5
+12 13
+6 8
+7 11
+
+Solution 29: 
+1 3
+10 5
+12 13
+6 8
+8 10
+
+Number of solutions found: 30
+
+Changes at vertices: 
+New Vertex: 10 5
+15 5 -> 15 4
+----------------------------------
+Removal 3: 
+Solution 0: 
+11 14
+2 6
+6 6
+7 9
+9 11
+
+Solution 1: 
+11 14
+15 5
+2 6
+7 9
+9 11
+
+Solution 2: 
+11 14
+2 6
+7 9
+8 7
+9 11
+
+Solution 3: 
+11 14
+15 7
+2 6
+7 9
+9 11
+
+Solution 4: 
+11 14
+2 6
+4 9
+8 7
+9 11
+
+Solution 5: 
+11 14
+2 6
+4 8
+8 7
+9 11
+
+Solution 6: 
+11 14
+2 6
+6 8
+8 7
+9 11
+
+Solution 7: 
+11 15
+2 6
+6 8
+8 7
+9 11
+
+Solution 8: 
+12 15
+2 6
+6 8
+8 7
+9 11
+
+Solution 9: 
+12 13
+2 6
+6 8
+8 7
+9 11
+
+Solution 10: 
+12 13
+2 6
+7 9
+8 7
+9 11
+
+Solution 11: 
+12 13
+2 6
+4 9
+8 7
+9 11
+
+Solution 12: 
+12 13
+2 6
+4 8
+8 7
+9 11
+
+Solution 13: 
+12 15
+2 6
+4 8
+8 7
+9 11
+
+Solution 14: 
+11 15
+2 6
+4 8
+8 7
+9 11
+
+Solution 15: 
+11 15
+2 6
+4 9
+8 7
+9 11
+
+Solution 16: 
+11 15
+2 6
+7 9
+8 7
+9 11
+
+Solution 17: 
+12 15
+2 6
+7 9
+8 7
+9 11
+
+Solution 18: 
+12 15
+2 6
+4 9
+8 7
+9 11
+
+Solution 19: 
+12 15
+15 5
+2 6
+7 9
+9 11
+
+Solution 20: 
+12 15
+2 6
+6 6
+7 9
+9 11
+
+Solution 21: 
+12 15
+15 7
+2 6
+7 9
+9 11
+
+Solution 22: 
+12 13
+15 7
+2 6
+7 9
+9 11
+
+Solution 23: 
+11 15
+15 7
+2 6
+7 9
+9 11
+
+Solution 24: 
+11 15
+15 5
+2 6
+7 9
+9 11
+
+Solution 25: 
+12 13
+15 5
+2 6
+7 9
+9 11
+
+Solution 26: 
+12 13
+2 6
+6 6
+7 9
+9 11
+
+Solution 27: 
+11 15
+2 6
+6 6
+7 9
+9 11
+
+Solution 28: 
+11 14
+14 10
+2 6
+6 6
+7 9
+
+Solution 29: 
+12 13
+14 10
+2 6
+6 6
+7 9
+
+Solution 30: 
+12 13
+2 6
+6 6
+7 9
+8 10
+
+Solution 31: 
+12 13
+2 6
+6 6
+7 11
+7 9
+
+Solution 32: 
+12 13
+2 6
+4 9
+6 6
+7 11
+
+Solution 33: 
+12 13
+2 6
+4 8
+6 6
+7 11
+
+Solution 34: 
+12 13
+2 6
+6 6
+6 8
+7 11
+
+Solution 35: 
+12 13
+2 6
+6 6
+6 8
+8 10
+
+Solution 36: 
+12 13
+2 6
+4 8
+6 6
+8 10
+
+Solution 37: 
+12 13
+2 6
+4 9
+6 6
+8 10
+
+Solution 38: 
+12 13
+2 6
+4 9
+8 10
+8 7
+
+Solution 39: 
+12 13
+2 6
+4 8
+8 10
+8 7
+
+Solution 40: 
+12 13
+2 6
+7 9
+8 10
+8 7
+
+Solution 41: 
+12 13
+15 7
+2 6
+7 9
+8 10
+
+Solution 42: 
+12 13
+15 5
+2 6
+7 9
+8 10
+
+Solution 43: 
+12 13
+15 5
+2 6
+7 11
+7 9
+
+Solution 44: 
+12 13
+15 7
+2 6
+7 11
+7 9
+
+Solution 45: 
+12 13
+14 10
+15 7
+2 6
+7 9
+
+Solution 46: 
+12 13
+14 10
+15 5
+2 6
+7 9
+
+Solution 47: 
+11 14
+14 10
+15 5
+2 6
+7 9
+
+Solution 48: 
+11 14
+14 10
+15 7
+2 6
+7 9
+
+Solution 49: 
+11 14
+14 10
+2 6
+7 9
+8 7
+
+Solution 50: 
+12 13
+14 10
+2 6
+7 9
+8 7
+
+Solution 51: 
+12 13
+2 6
+7 11
+7 9
+8 7
+
+Solution 52: 
+12 13
+2 6
+4 8
+7 11
+8 7
+
+Solution 53: 
+12 13
+2 6
+4 9
+7 11
+8 7
+
+Solution 54: 
+12 13
+2 6
+6 8
+7 11
+8 7
+
+Solution 55: 
+12 13
+2 6
+6 8
+8 10
+8 7
+
+Solution 56: 
+12 13
+14 10
+2 6
+6 8
+8 7
+
+Solution 57: 
+12 13
+14 10
+2 6
+4 9
+8 7
+
+Solution 58: 
+12 13
+14 10
+2 6
+4 8
+8 7
+
+Solution 59: 
+11 14
+14 10
+2 6
+4 8
+8 7
+
+Solution 60: 
+11 14
+14 10
+2 6
+4 9
+8 7
+
+Solution 61: 
+11 14
+14 10
+2 6
+6 8
+8 7
+
+Solution 62: 
+12 13
+15 7
+2 6
+6 8
+8 10
+
+Solution 63: 
+12 13
+15 7
+2 6
+6 8
+7 11
+
+Solution 64: 
+12 13
+15 5
+2 6
+6 8
+7 11
+
+Solution 65: 
+12 13
+15 5
+2 6
+6 8
+8 10
+
+Solution 66: 
+1 3
+12 13
+15 5
+6 8
+8 10
+
+Solution 67: 
+1 3
+12 13
+6 6
+6 8
+8 10
+
+Solution 68: 
+1 3
+12 13
+6 6
+6 8
+7 11
+
+Solution 69: 
+1 3
+12 13
+15 5
+6 8
+7 11
+
+Solution 70: 
+1 3
+12 13
+15 5
+7 11
+7 9
+
+Solution 71: 
+1 3
+12 13
+15 5
+7 9
+8 10
+
+Solution 72: 
+1 3
+12 13
+6 6
+7 9
+8 10
+
+Solution 73: 
+1 3
+12 13
+6 6
+7 11
+7 9
+
+Solution 74: 
+1 3
+12 13
+14 10
+6 6
+7 9
+
+Solution 75: 
+1 3
+12 13
+14 10
+15 5
+7 9
+
+Solution 76: 
+1 3
+11 14
+14 10
+15 5
+7 9
+
+Solution 77: 
+1 3
+11 14
+14 10
+6 6
+7 9
+
+Solution 78: 
+1 3
+11 14
+6 6
+7 9
+9 11
+
+Solution 79: 
+1 3
+11 15
+6 6
+7 9
+9 11
+
+Solution 80: 
+1 3
+12 15
+6 6
+7 9
+9 11
+
+Solution 81: 
+1 3
+12 13
+6 6
+7 9
+9 11
+
+Solution 82: 
+1 3
+12 13
+15 5
+7 9
+9 11
+
+Solution 83: 
+1 3
+11 15
+15 5
+7 9
+9 11
+
+Solution 84: 
+1 3
+12 15
+15 5
+7 9
+9 11
+
+Solution 85: 
+1 3
+11 14
+15 5
+7 9
+9 11
+
+Solution 86: 
+1 3
+12 13
+4 9
+6 6
+8 10
+
+Solution 87: 
+1 3
+12 13
+4 9
+6 6
+7 11
+
+Solution 88: 
+1 3
+12 13
+4 8
+6 6
+7 11
+
+Solution 89: 
+1 3
+12 13
+4 8
+6 6
+8 10
+
+Number of solutions found: 90
+
+Changes at vertices: 
+12 14 -> 12 15
+New Vertex: 11 14
+----------------------------------
+Removal 4: 
+Solution 0: 
+2 6
+6 6
+7 9
+9 11
+
+Solution 1: 
+15 5
+2 6
+7 9
+9 11
+
+Solution 2: 
+2 6
+7 9
+8 7
+9 11
+
+Solution 3: 
+15 7
+2 6
+7 9
+9 11
+
+Solution 4: 
+2 6
+4 9
+8 7
+9 11
+
+Solution 5: 
+2 6
+4 8
+8 7
+9 11
+
+Solution 6: 
+2 6
+6 8
+8 7
+9 11
+
+Solution 7: 
+1 3
+15 5
+7 9
+9 11
+
+Solution 8: 
+1 3
+6 6
+7 9
+9 11
+
+Number of solutions found: 9
+
+Changes at vertices: 
+New Vertex: 12 13
+9 13 -> 9 14
+----------------------------------
+Removal 5: 
+Solution 0: 
+2 6
+6 6
+7 9
+9 11
+
+Solution 1: 
+15 5
+2 6
+7 9
+9 11
+
+Solution 2: 
+15 7
+2 6
+7 9
+9 11
+
+Solution 3: 
+2 6
+7 9
+8 7
+9 11
+
+Solution 4: 
+2 6
+6 8
+8 7
+9 11
+
+Solution 5: 
+2 6
+4 8
+8 7
+9 11
+
+Solution 6: 
+2 6
+4 9
+8 7
+9 11
+
+Solution 7: 
+14 10
+2 6
+4 9
+8 7
+
+Solution 8: 
+14 10
+2 6
+4 8
+8 7
+
+Solution 9: 
+14 10
+2 6
+6 8
+8 7
+
+Solution 10: 
+14 10
+2 6
+7 9
+8 7
+
+Solution 11: 
+14 10
+15 7
+2 6
+7 9
+
+Solution 12: 
+14 10
+15 5
+2 6
+7 9
+
+Solution 13: 
+14 10
+2 6
+6 6
+7 9
+
+Solution 14: 
+1 3
+14 10
+6 6
+7 9
+
+Solution 15: 
+1 3
+6 6
+7 9
+9 11
+
+Solution 16: 
+1 3
+15 5
+7 9
+9 11
+
+Solution 17: 
+1 3
+14 10
+15 5
+7 9
+
+Number of solutions found: 18
+
+Changes at vertices: 
+14 11 -> 14 13
+New Vertex: 9 11
+----------------------------------
+Removal 6: 
+Solution 0: 
+2 6
+4 8
+6 6
+7 11
+
+Solution 1: 
+2 6
+4 9
+6 6
+7 11
+
+Solution 2: 
+2 6
+6 6
+7 11
+7 9
+
+Solution 3: 
+2 6
+6 6
+6 8
+7 11
+
+Solution 4: 
+2 6
+6 6
+6 8
+8 10
+
+Solution 5: 
+2 6
+4 8
+6 6
+8 10
+
+Solution 6: 
+2 6
+4 9
+6 6
+8 10
+
+Solution 7: 
+2 6
+6 6
+7 9
+8 10
+
+Solution 8: 
+14 10
+2 6
+6 6
+7 9
+
+Solution 9: 
+14 11
+2 6
+6 6
+7 9
+
+Solution 10: 
+14 11
+15 5
+2 6
+7 9
+
+Solution 11: 
+14 11
+15 7
+2 6
+7 9
+
+Solution 12: 
+14 11
+2 6
+7 9
+8 7
+
+Solution 13: 
+14 11
+2 6
+4 9
+8 7
+
+Solution 14: 
+14 11
+2 6
+6 8
+8 7
+
+Solution 15: 
+14 11
+2 6
+4 8
+8 7
+
+Solution 16: 
+14 10
+2 6
+4 8
+8 7
+
+Solution 17: 
+2 6
+4 8
+8 10
+8 7
+
+Solution 18: 
+2 6
+4 8
+7 11
+8 7
+
+Solution 19: 
+2 6
+4 9
+7 11
+8 7
+
+Solution 20: 
+2 6
+6 8
+7 11
+8 7
+
+Solution 21: 
+15 5
+2 6
+6 8
+7 11
+
+Solution 22: 
+15 7
+2 6
+6 8
+7 11
+
+Solution 23: 
+15 7
+2 6
+7 11
+7 9
+
+Solution 24: 
+15 5
+2 6
+7 11
+7 9
+
+Solution 25: 
+2 6
+7 11
+7 9
+8 7
+
+Solution 26: 
+14 10
+2 6
+7 9
+8 7
+
+Solution 27: 
+2 6
+7 9
+8 10
+8 7
+
+Solution 28: 
+15 5
+2 6
+7 9
+8 10
+
+Solution 29: 
+15 7
+2 6
+7 9
+8 10
+
+Solution 30: 
+14 10
+15 7
+2 6
+7 9
+
+Solution 31: 
+14 10
+15 5
+2 6
+7 9
+
+Solution 32: 
+15 5
+2 6
+6 8
+8 10
+
+Solution 33: 
+15 7
+2 6
+6 8
+8 10
+
+Solution 34: 
+2 6
+6 8
+8 10
+8 7
+
+Solution 35: 
+14 10
+2 6
+6 8
+8 7
+
+Solution 36: 
+14 10
+2 6
+4 9
+8 7
+
+Solution 37: 
+2 6
+4 9
+8 10
+8 7
+
+Solution 38: 
+1 3
+4 9
+6 6
+8 10
+
+Solution 39: 
+1 3
+4 8
+6 6
+8 10
+
+Solution 40: 
+1 3
+6 6
+6 8
+8 10
+
+Solution 41: 
+1 3
+15 5
+6 8
+8 10
+
+Solution 42: 
+1 3
+15 5
+6 8
+7 11
+
+Solution 43: 
+1 3
+6 6
+6 8
+7 11
+
+Solution 44: 
+1 3
+4 8
+6 6
+7 11
+
+Solution 45: 
+1 3
+4 9
+6 6
+7 11
+
+Solution 46: 
+1 3
+6 6
+7 11
+7 9
+
+Solution 47: 
+1 3
+14 11
+6 6
+7 9
+
+Solution 48: 
+1 3
+6 6
+7 9
+8 10
+
+Solution 49: 
+1 3
+14 10
+6 6
+7 9
+
+Solution 50: 
+1 3
+14 10
+15 5
+7 9
+
+Solution 51: 
+1 3
+14 11
+15 5
+7 9
+
+Solution 52: 
+1 3
+15 5
+7 9
+8 10
+
+Solution 53: 
+1 3
+15 5
+7 11
+7 9
+
+Number of solutions found: 54
+
+Changes at vertices: 
+Change visibility: 8 10
+7 10 -> 7 11
+----------------------------------
+Removal 7: 
+Solution 0: 
+2 6
+6 6
+7 9
+
+Solution 1: 
+15 5
+2 6
+7 9
+
+Solution 2: 
+2 6
+7 9
+8 7
+
+Solution 3: 
+15 7
+2 6
+7 9
+
+Solution 4: 
+2 6
+6 8
+8 7
+
+Solution 5: 
+2 6
+4 9
+8 7
+
+Solution 6: 
+2 6
+4 8
+8 7
+
+Solution 7: 
+1 3
+6 6
+7 9
+
+Solution 8: 
+1 3
+15 5
+7 9
+
+Number of solutions found: 9
+
+Changes at vertices: 
+8 9 -> 8 10
+New Vertex: 7 9
+----------------------------------
+Removal 8: 
+Solution 0: 
+2 6
+4 8
+6 6
+
+Solution 1: 
+2 6
+4 9
+6 6
+
+Solution 2: 
+2 6
+6 6
+6 8
+
+Solution 3: 
+2 6
+6 6
+8 9
+
+Solution 4: 
+15 5
+2 6
+8 9
+
+Solution 5: 
+2 6
+8 7
+8 9
+
+Solution 6: 
+15 7
+2 6
+8 9
+
+Solution 7: 
+15 7
+2 6
+6 8
+
+Solution 8: 
+15 5
+2 6
+6 8
+
+Solution 9: 
+2 6
+6 8
+8 7
+
+Solution 10: 
+2 6
+4 8
+8 7
+
+Solution 11: 
+2 6
+4 9
+8 7
+
+Solution 12: 
+1 3
+15 5
+6 8
+
+Solution 13: 
+1 3
+15 5
+8 9
+
+Solution 14: 
+1 3
+6 6
+8 9
+
+Solution 15: 
+1 3
+4 9
+6 6
+
+Solution 16: 
+1 3
+4 8
+6 6
+
+Solution 17: 
+1 3
+6 6
+6 8
+
+Number of solutions found: 18
+
+Changes at vertices: 
+8 8 -> 8 9
+Change visibility: 6 8
+----------------------------------
+Removal 9: 
+Solution 0: 
+2 6
+6 6
+
+Solution 1: 
+2 6
+8 7
+
+Solution 2: 
+1 3
+6 6
+
+Number of solutions found: 3
+
+Changes at vertices: 
+New Vertex: 8 7
+6 7 -> 6 8
+----------------------------------
+Removal 10: 
+Solution 0: 
+2 6
+6 6
+
+Solution 1: 
+15 5
+2 6
+
+Solution 2: 
+15 7
+2 6
+
+Solution 3: 
+2 6
+6 7
+
+Solution 4: 
+1 3
+15 5
+
+Solution 5: 
+1 3
+6 6
+
+Number of solutions found: 6
+
+Changes at vertices: 
+15 6 -> 15 7
+New Vertex: 6 6
+----------------------------------
+Removal 11: 
+Solution 0: 
+2 6
+
+Number of solutions found: 1
+
+Changes at vertices: 
+New Vertex: 2 6
+1 6 -> 1 12
+----------------------------------
+Removal 12: 
+Solution 0: 
+5 5
+
+Solution 1: 
+1 6
+
+Number of solutions found: 2
+
+Changes at vertices: 
+Change visibility: 5 5
+1 5 -> 1 6
+----------------------------------
+Removal 13: 
+Solution 0: 
+1 5
+
+Solution 1: 
+5 3
+
+Solution 2: 
+5 5
+
+Solution 3: 
+1 3
+
+Number of solutions found: 4
+

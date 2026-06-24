@@ -1,0 +1,277 @@
+Removal 0: 
+Solution 0: 
+2 8
+5 6
+7 4
+
+Solution 1: 
+2 8
+5 6
+8 5
+
+Solution 2: 
+2 8
+5 6
+9 3
+
+Solution 3: 
+2 8
+5 10
+7 4
+
+Solution 4: 
+2 8
+6 10
+7 4
+
+Solution 5: 
+2 8
+6 7
+7 4
+
+Solution 6: 
+2 8
+6 7
+8 5
+
+Solution 7: 
+2 8
+5 10
+8 5
+
+Solution 8: 
+2 8
+6 10
+8 5
+
+Number of solutions found: 9
+
+Changes at vertices: 
+7 3 -> 7 1
+New Vertex: 9 3
+----------------------------------
+Removal 1: 
+Solution 0: 
+2 8
+5 6
+7 4
+
+Solution 1: 
+2 8
+5 6
+8 5
+
+Solution 2: 
+10 5
+2 8
+5 6
+
+Solution 3: 
+10 3
+2 8
+5 6
+
+Solution 4: 
+2 8
+5 6
+7 3
+
+Solution 5: 
+2 8
+6 7
+7 4
+
+Solution 6: 
+2 8
+5 10
+7 4
+
+Solution 7: 
+2 8
+6 10
+7 4
+
+Solution 8: 
+2 8
+6 10
+8 5
+
+Solution 9: 
+2 8
+5 10
+8 5
+
+Solution 10: 
+2 8
+6 7
+8 5
+
+Number of solutions found: 11
+
+Changes at vertices: 
+New Vertex: 7 4
+10 4 -> 10 3
+----------------------------------
+Removal 2: 
+Solution 0: 
+1 9
+3 4
+5 6
+
+Solution 1: 
+2 8
+3 4
+5 6
+
+Solution 2: 
+2 9
+3 4
+5 6
+
+Solution 3: 
+2 8
+5 6
+8 5
+
+Solution 4: 
+10 4
+2 8
+5 6
+
+Solution 5: 
+10 5
+2 8
+5 6
+
+Solution 6: 
+1 2
+3 4
+5 6
+
+Solution 7: 
+1 2
+3 4
+6 7
+
+Solution 8: 
+1 9
+3 4
+6 7
+
+Solution 9: 
+2 9
+3 4
+6 7
+
+Solution 10: 
+2 8
+3 4
+6 7
+
+Solution 11: 
+2 8
+6 7
+8 5
+
+Solution 12: 
+2 8
+5 10
+8 5
+
+Solution 13: 
+2 8
+6 10
+8 5
+
+Number of solutions found: 14
+
+Changes at vertices: 
+New Vertex: 6 7
+5 7 -> 5 10
+----------------------------------
+Removal 3: 
+Solution 0: 
+2 8
+8 5
+
+Number of solutions found: 1
+
+Changes at vertices: 
+8 6 -> 8 7
+New Vertex: 5 6
+----------------------------------
+Removal 4: 
+Solution 0: 
+1 9
+3 4
+
+Solution 1: 
+2 8
+3 4
+
+Solution 2: 
+2 9
+3 4
+
+Solution 3: 
+2 8
+8 5
+
+Solution 4: 
+1 2
+3 4
+
+Number of solutions found: 5
+
+Changes at vertices: 
+New Vertex: 2 8
+1 8 -> 1 9
+----------------------------------
+Removal 5: 
+Solution 0: 
+3 4
+
+Number of solutions found: 1
+
+Changes at vertices: 
+New Vertex: 4 6
+1 6 -> 1 8
+----------------------------------
+Removal 6: 
+Solution 0: 
+3 4
+
+Number of solutions found: 1
+
+Changes at vertices: 
+New Vertex: 8 5
+1 5 -> 1 6
+----------------------------------
+Removal 7: 
+Solution 0: 
+3 4
+
+Solution 1: 
+1 5
+
+Number of solutions found: 2
+
+Changes at vertices: 
+Change visibility: 3 4
+1 4 -> 1 5
+----------------------------------
+Removal 8: 
+Solution 0: 
+1 4
+
+Solution 1: 
+3 2
+
+Solution 2: 
+3 4
+
+Solution 3: 
+1 2
+
+Number of solutions found: 4
+
