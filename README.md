@@ -2,7 +2,9 @@
 To build the executable, at the directory of the project, the following should suffice:
 
 ```cd src/build```
+
 ```cmake .. -DCMAKE_PREFIX_PATH=~/or-tools```
+
 ```cmake --build .```
 
 ## Run empirical analysis on a single polygon
